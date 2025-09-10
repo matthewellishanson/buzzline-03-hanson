@@ -1,4 +1,4 @@
-# buzzline-03-case
+# buzzline-03-hanson
 
 Streaming data does not have to be simple text.
 Many of us are familiar with streaming video content and audio (e.g. music) files.
@@ -13,19 +13,6 @@ See [.env](.env).
 
 Before starting, ensure you have completed the setup tasks in <https://github.com/denisecase/buzzline-01-case> and <https://github.com/denisecase/buzzline-02-case> first.
 **Python 3.11 is required.**
-
-## Second, Copy This Example Project & Rename
-
-1. Once the tools are installed, copy/fork this project into your GitHub account
-   and create your own version of this project to run and experiment with.
-2. Name it `buzzline-03-yourname` where yourname is something unique to you.
-
-Additional information about our standard professional Python project workflow is available at
-<https://github.com/denisecase/pro-analytics-01>.
-
-Use your README.md to record your workflow and commands.
-
----
 
 ## Task 0. If Windows, Start WSL
 
