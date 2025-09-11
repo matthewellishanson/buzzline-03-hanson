@@ -230,3 +230,48 @@
 2025-09-10 18:42:05 | WARNING | Consumer interrupted by user.
 2025-09-10 18:42:05 | INFO | Kafka consumer for topic 'buzzline_json' closed.
 2025-09-10 18:42:05 | INFO | END consumer for topic 'buzzline_json' and group 'buzz_group'.
+2025-09-11 17:25:48 | INFO | Logging to file: logs/project_log.log
+2025-09-11 17:25:48 | INFO | Log sanitization enabled, personal info removed
+2025-09-11 17:25:48 | INFO | Project root: C:/Users/USER/Documents/datastream-01/buzzline-03-hanson
+2025-09-11 17:25:48 | INFO | Data folder: C:/Users/USER/Documents/datastream-01/buzzline-03-hanson/data
+2025-09-11 17:25:48 | INFO | Data file: C:/Users/USER/Documents/datastream-01/buzzline-03-hanson/data/smoker_temps.csv
+2025-09-11 17:25:48 | INFO | START producer.
+2025-09-11 17:25:48 | INFO | Kafka broker address: localhost:9092
+2025-09-11 17:25:48 | INFO | Kafka is ready. Brokers: {'throttle_time_ms': 0, 'brokers': [{'node_id': 1, 'host': 'localhost', 'port': 9092, 'rack': None}], 'cluster_id': 'HgK16oaASYSw0OdYOPF66A', 'controller_id': 1}
+2025-09-11 17:25:48 | INFO | Kafka topic: smoker_csv
+2025-09-11 17:25:48 | INFO | Message interval: 5 seconds
+2025-09-11 17:25:48 | INFO | Kafka broker address: localhost:9092
+2025-09-11 17:25:48 | INFO | Connecting to Kafka broker at localhost:9092...
+2025-09-11 17:25:48 | INFO | Kafka producer successfully created.
+2025-09-11 17:25:48 | INFO | Kafka broker address: localhost:9092
+2025-09-11 17:25:48 | INFO | Topic 'smoker_csv' created successfully.
+2025-09-11 17:25:48 | INFO | Kafka topic 'smoker_csv' is ready.
+2025-09-11 17:25:48 | INFO | Starting message production to topic 'smoker_csv'...
+2025-09-11 17:25:48 | INFO | Opening data file in read mode: C:/Users/USER/Documents/datastream-01/buzzline-03-hanson/data/smoker_temps.csv
+2025-09-11 17:25:48 | INFO | Reading data from file: C:/Users/USER/Documents/datastream-01/buzzline-03-hanson/data/smoker_temps.csv
+2025-09-11 17:25:48 | INFO | Sent message to topic 'smoker_csv': {'timestamp': '2025-09-11T22:25:48.887028', 'temperature': 70.4}
+2025-09-11 17:25:53 | INFO | Sent message to topic 'smoker_csv': {'timestamp': '2025-09-11T22:25:53.893297', 'temperature': 70.8}
+2025-09-11 17:25:58 | INFO | Sent message to topic 'smoker_csv': {'timestamp': '2025-09-11T22:25:58.897988', 'temperature': 71.2}
+2025-09-11 17:26:03 | INFO | Sent message to topic 'smoker_csv': {'timestamp': '2025-09-11T22:26:03.899567', 'temperature': 71.6}
+2025-09-11 17:26:08 | INFO | Sent message to topic 'smoker_csv': {'timestamp': '2025-09-11T22:26:08.900513', 'temperature': 72.0}
+2025-09-11 17:26:13 | INFO | Sent message to topic 'smoker_csv': {'timestamp': '2025-09-11T22:26:13.901971', 'temperature': 72.4}
+2025-09-11 17:26:18 | INFO | Sent message to topic 'smoker_csv': {'timestamp': '2025-09-11T22:26:18.903598', 'temperature': 72.8}
+2025-09-11 17:26:23 | INFO | Sent message to topic 'smoker_csv': {'timestamp': '2025-09-11T22:26:23.904439', 'temperature': 73.2}
+2025-09-11 17:26:28 | INFO | Sent message to topic 'smoker_csv': {'timestamp': '2025-09-11T22:26:28.905626', 'temperature': 73.6}
+2025-09-11 17:26:33 | INFO | Sent message to topic 'smoker_csv': {'timestamp': '2025-09-11T22:26:33.907970', 'temperature': 74.0}
+2025-09-11 17:26:38 | INFO | Sent message to topic 'smoker_csv': {'timestamp': '2025-09-11T22:26:38.913207', 'temperature': 74.4}
+2025-09-11 17:26:43 | INFO | Sent message to topic 'smoker_csv': {'timestamp': '2025-09-11T22:26:43.918609', 'temperature': 74.8}
+2025-09-11 17:26:45 | INFO | Logging to file: logs/project_log.log
+2025-09-11 17:26:45 | INFO | Log sanitization enabled, personal info removed
+2025-09-11 17:26:45 | INFO | START consumer.
+2025-09-11 17:26:45 | INFO | Kafka topic: smoker_csv
+2025-09-11 17:26:45 | INFO | Kafka consumer group id: smoker_group
+2025-09-11 17:26:45 | INFO | Rolling window size: 10
+2025-09-11 17:26:45 | INFO | Consumer: Topic 'smoker_csv' and group 'smoker_group'...
+2025-09-11 17:26:45 | INFO | Rolling window size: 10
+2025-09-11 17:26:45 | INFO | Kafka broker address: localhost:9092
+2025-09-11 17:26:45 | INFO | Creating Kafka consumer. Topic='smoker_csv' and group ID='smoker_group'.
+2025-09-11 17:26:45 | INFO | Kafka consumer created successfully.
+2025-09-11 17:26:45 | INFO | Polling messages from topic 'smoker_csv'...
+2025-09-11 17:26:45 | ERROR | Error while consuming messages: Invalid file descriptor: -1
+2025-09-11 17:26:45 | INFO | Kafka consumer for topic 'smoker_csv' closed.
