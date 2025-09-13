@@ -1,381 +1,112 @@
-2025-09-11 17:30:59 | INFO | Processed JSON message: {'timestamp': '2025-09-11T22:30:59.066716', 'temperature': 95.2}
-2025-09-11 17:30:59 | INFO | Rolling window size: 10
-2025-09-11 17:30:59 | INFO | Max stall temperature range: 0.2 F
-2025-09-11 17:30:59 | INFO | Sent message to topic 'smoker_csv': {'timestamp': '2025-09-11T22:30:59.066716', 'temperature': 95.2}
-2025-09-11 17:31:04 | INFO | Sent message to topic 'smoker_csv': {'timestamp': '2025-09-11T22:31:04.070006', 'temperature': 95.6}
-2025-09-11 17:31:04 | INFO | Processed JSON message: {'timestamp': '2025-09-11T22:31:04.070006', 'temperature': 95.6}
-2025-09-11 17:31:04 | INFO | Rolling window size: 10
-2025-09-11 17:31:04 | INFO | Max stall temperature range: 0.2 F
-2025-09-11 17:31:09 | INFO | Sent message to topic 'smoker_csv': {'timestamp': '2025-09-11T22:31:09.070988', 'temperature': 96.0}
-2025-09-11 17:31:09 | INFO | Processed JSON message: {'timestamp': '2025-09-11T22:31:09.070988', 'temperature': 96.0}
-2025-09-11 17:31:09 | INFO | Rolling window size: 10
-2025-09-11 17:31:09 | INFO | Max stall temperature range: 0.2 F
-2025-09-11 17:31:14 | INFO | Sent message to topic 'smoker_csv': {'timestamp': '2025-09-11T22:31:14.073754', 'temperature': 96.4}
-2025-09-11 17:31:14 | INFO | Processed JSON message: {'timestamp': '2025-09-11T22:31:14.073754', 'temperature': 96.4}
-2025-09-11 17:31:14 | INFO | Rolling window size: 10
-2025-09-11 17:31:14 | INFO | Max stall temperature range: 0.2 F
-2025-09-11 17:31:19 | INFO | Sent message to topic 'smoker_csv': {'timestamp': '2025-09-11T22:31:19.075538', 'temperature': 96.8}
-2025-09-11 17:31:19 | INFO | Processed JSON message: {'timestamp': '2025-09-11T22:31:19.075538', 'temperature': 96.8}
-2025-09-11 17:31:19 | INFO | Rolling window size: 10
-2025-09-11 17:31:19 | INFO | Max stall temperature range: 0.2 F
-2025-09-11 17:31:24 | INFO | Sent message to topic 'smoker_csv': {'timestamp': '2025-09-11T22:31:24.076611', 'temperature': 97.2}
-2025-09-11 17:31:24 | INFO | Processed JSON message: {'timestamp': '2025-09-11T22:31:24.076611', 'temperature': 97.2}
-2025-09-11 17:31:24 | INFO | Rolling window size: 10
-2025-09-11 17:31:24 | INFO | Max stall temperature range: 0.2 F
-2025-09-11 17:31:29 | INFO | Sent message to topic 'smoker_csv': {'timestamp': '2025-09-11T22:31:29.078041', 'temperature': 97.6}
-2025-09-11 17:31:29 | INFO | Processed JSON message: {'timestamp': '2025-09-11T22:31:29.078041', 'temperature': 97.6}
-2025-09-11 17:31:29 | INFO | Rolling window size: 10
-2025-09-11 17:31:29 | INFO | Max stall temperature range: 0.2 F
-2025-09-11 17:31:34 | INFO | Sent message to topic 'smoker_csv': {'timestamp': '2025-09-11T22:31:34.078837', 'temperature': 98.0}
-2025-09-11 17:31:34 | INFO | Processed JSON message: {'timestamp': '2025-09-11T22:31:34.078837', 'temperature': 98.0}
-2025-09-11 17:31:34 | INFO | Rolling window size: 10
-2025-09-11 17:31:34 | INFO | Max stall temperature range: 0.2 F
-2025-09-11 17:31:39 | INFO | Sent message to topic 'smoker_csv': {'timestamp': '2025-09-11T22:31:39.079878', 'temperature': 98.4}
-2025-09-11 17:31:39 | INFO | Processed JSON message: {'timestamp': '2025-09-11T22:31:39.079878', 'temperature': 98.4}
-2025-09-11 17:31:39 | INFO | Rolling window size: 10
-2025-09-11 17:31:39 | INFO | Max stall temperature range: 0.2 F
-2025-09-11 17:31:44 | INFO | Sent message to topic 'smoker_csv': {'timestamp': '2025-09-11T22:31:44.081466', 'temperature': 98.8}
-2025-09-11 17:31:44 | INFO | Processed JSON message: {'timestamp': '2025-09-11T22:31:44.081466', 'temperature': 98.8}
-2025-09-11 17:31:44 | INFO | Rolling window size: 10
-2025-09-11 17:31:44 | INFO | Max stall temperature range: 0.2 F
-2025-09-11 17:31:49 | INFO | Sent message to topic 'smoker_csv': {'timestamp': '2025-09-11T22:31:49.083913', 'temperature': 99.2}
-2025-09-11 17:31:49 | INFO | Processed JSON message: {'timestamp': '2025-09-11T22:31:49.083913', 'temperature': 99.2}
-2025-09-11 17:31:49 | INFO | Rolling window size: 10
-2025-09-11 17:31:49 | INFO | Max stall temperature range: 0.2 F
-2025-09-11 17:31:54 | INFO | Sent message to topic 'smoker_csv': {'timestamp': '2025-09-11T22:31:54.087242', 'temperature': 99.6}
-2025-09-11 17:31:54 | INFO | Processed JSON message: {'timestamp': '2025-09-11T22:31:54.087242', 'temperature': 99.6}
-2025-09-11 17:31:54 | INFO | Rolling window size: 10
-2025-09-11 17:31:54 | INFO | Max stall temperature range: 0.2 F
-2025-09-11 17:31:59 | INFO | Sent message to topic 'smoker_csv': {'timestamp': '2025-09-11T22:31:59.089441', 'temperature': 100.0}
-2025-09-11 17:31:59 | INFO | Processed JSON message: {'timestamp': '2025-09-11T22:31:59.089441', 'temperature': 100.0}
-2025-09-11 17:31:59 | INFO | Rolling window size: 10
-2025-09-11 17:31:59 | INFO | Max stall temperature range: 0.2 F
-2025-09-11 17:32:04 | INFO | Sent message to topic 'smoker_csv': {'timestamp': '2025-09-11T22:32:04.090725', 'temperature': 100.4}
-2025-09-11 17:32:04 | INFO | Processed JSON message: {'timestamp': '2025-09-11T22:32:04.090725', 'temperature': 100.4}
-2025-09-11 17:32:04 | INFO | Rolling window size: 10
-2025-09-11 17:32:04 | INFO | Max stall temperature range: 0.2 F
-2025-09-11 17:32:09 | INFO | Sent message to topic 'smoker_csv': {'timestamp': '2025-09-11T22:32:09.092565', 'temperature': 100.8}
-2025-09-11 17:32:09 | INFO | Processed JSON message: {'timestamp': '2025-09-11T22:32:09.092565', 'temperature': 100.8}
-2025-09-11 17:32:09 | INFO | Rolling window size: 10
-2025-09-11 17:32:09 | INFO | Max stall temperature range: 0.2 F
-2025-09-11 17:32:14 | INFO | Sent message to topic 'smoker_csv': {'timestamp': '2025-09-11T22:32:14.093381', 'temperature': 101.2}
-2025-09-11 17:32:14 | INFO | Processed JSON message: {'timestamp': '2025-09-11T22:32:14.093381', 'temperature': 101.2}
-2025-09-11 17:32:14 | INFO | Rolling window size: 10
-2025-09-11 17:32:14 | INFO | Max stall temperature range: 0.2 F
-2025-09-11 17:32:19 | INFO | Sent message to topic 'smoker_csv': {'timestamp': '2025-09-11T22:32:19.096194', 'temperature': 101.6}
-2025-09-11 17:32:19 | INFO | Processed JSON message: {'timestamp': '2025-09-11T22:32:19.096194', 'temperature': 101.6}
-2025-09-11 17:32:19 | INFO | Rolling window size: 10
-2025-09-11 17:32:19 | INFO | Max stall temperature range: 0.2 F
-2025-09-11 17:32:24 | INFO | Sent message to topic 'smoker_csv': {'timestamp': '2025-09-11T22:32:24.097280', 'temperature': 102.0}
-2025-09-11 17:32:24 | INFO | Processed JSON message: {'timestamp': '2025-09-11T22:32:24.097280', 'temperature': 102.0}
-2025-09-11 17:32:24 | INFO | Rolling window size: 10
-2025-09-11 17:32:24 | INFO | Max stall temperature range: 0.2 F
-2025-09-11 17:32:29 | INFO | Sent message to topic 'smoker_csv': {'timestamp': '2025-09-11T22:32:29.099453', 'temperature': 102.4}
-2025-09-11 17:32:29 | INFO | Processed JSON message: {'timestamp': '2025-09-11T22:32:29.099453', 'temperature': 102.4}
-2025-09-11 17:32:29 | INFO | Rolling window size: 10
-2025-09-11 17:32:29 | INFO | Max stall temperature range: 0.2 F
-2025-09-11 17:32:34 | INFO | Sent message to topic 'smoker_csv': {'timestamp': '2025-09-11T22:32:34.101343', 'temperature': 102.8}
-2025-09-11 17:32:34 | INFO | Processed JSON message: {'timestamp': '2025-09-11T22:32:34.101343', 'temperature': 102.8}
-2025-09-11 17:32:34 | INFO | Rolling window size: 10
-2025-09-11 17:32:34 | INFO | Max stall temperature range: 0.2 F
-2025-09-11 17:32:39 | INFO | Sent message to topic 'smoker_csv': {'timestamp': '2025-09-11T22:32:39.102553', 'temperature': 103.2}
-2025-09-11 17:32:39 | INFO | Processed JSON message: {'timestamp': '2025-09-11T22:32:39.102553', 'temperature': 103.2}
-2025-09-11 17:32:39 | INFO | Rolling window size: 10
-2025-09-11 17:32:39 | INFO | Max stall temperature range: 0.2 F
-2025-09-11 17:32:44 | INFO | Sent message to topic 'smoker_csv': {'timestamp': '2025-09-11T22:32:44.103902', 'temperature': 103.6}
-2025-09-11 17:32:44 | INFO | Processed JSON message: {'timestamp': '2025-09-11T22:32:44.103902', 'temperature': 103.6}
-2025-09-11 17:32:44 | INFO | Rolling window size: 10
-2025-09-11 17:32:44 | INFO | Max stall temperature range: 0.2 F
-2025-09-11 17:32:49 | INFO | Sent message to topic 'smoker_csv': {'timestamp': '2025-09-11T22:32:49.104929', 'temperature': 104.0}
-2025-09-11 17:32:49 | INFO | Processed JSON message: {'timestamp': '2025-09-11T22:32:49.104929', 'temperature': 104.0}
-2025-09-11 17:32:49 | INFO | Rolling window size: 10
-2025-09-11 17:32:49 | INFO | Max stall temperature range: 0.2 F
-2025-09-11 17:32:54 | INFO | Sent message to topic 'smoker_csv': {'timestamp': '2025-09-11T22:32:54.106544', 'temperature': 104.4}
-2025-09-11 17:32:54 | INFO | Processed JSON message: {'timestamp': '2025-09-11T22:32:54.106544', 'temperature': 104.4}
-2025-09-11 17:32:54 | INFO | Rolling window size: 10
-2025-09-11 17:32:54 | INFO | Max stall temperature range: 0.2 F
-2025-09-11 17:32:59 | INFO | Sent message to topic 'smoker_csv': {'timestamp': '2025-09-11T22:32:59.107537', 'temperature': 104.8}
-2025-09-11 17:32:59 | INFO | Processed JSON message: {'timestamp': '2025-09-11T22:32:59.107537', 'temperature': 104.8}
-2025-09-11 17:32:59 | INFO | Rolling window size: 10
-2025-09-11 17:32:59 | INFO | Max stall temperature range: 0.2 F
-2025-09-11 17:33:04 | INFO | Sent message to topic 'smoker_csv': {'timestamp': '2025-09-11T22:33:04.110815', 'temperature': 105.2}
-2025-09-11 17:33:04 | INFO | Processed JSON message: {'timestamp': '2025-09-11T22:33:04.110815', 'temperature': 105.2}
-2025-09-11 17:33:04 | INFO | Rolling window size: 10
-2025-09-11 17:33:04 | INFO | Max stall temperature range: 0.2 F
-2025-09-11 17:33:09 | INFO | Sent message to topic 'smoker_csv': {'timestamp': '2025-09-11T22:33:09.112991', 'temperature': 105.6}
-2025-09-11 17:33:09 | INFO | Processed JSON message: {'timestamp': '2025-09-11T22:33:09.112991', 'temperature': 105.6}
-2025-09-11 17:33:09 | INFO | Rolling window size: 10
-2025-09-11 17:33:09 | INFO | Max stall temperature range: 0.2 F
-2025-09-11 17:33:14 | INFO | Sent message to topic 'smoker_csv': {'timestamp': '2025-09-11T22:33:14.117210', 'temperature': 106.0}
-2025-09-11 17:33:14 | INFO | Processed JSON message: {'timestamp': '2025-09-11T22:33:14.117210', 'temperature': 106.0}
-2025-09-11 17:33:14 | INFO | Rolling window size: 10
-2025-09-11 17:33:14 | INFO | Max stall temperature range: 0.2 F
-2025-09-11 17:33:19 | INFO | Sent message to topic 'smoker_csv': {'timestamp': '2025-09-11T22:33:19.120458', 'temperature': 106.4}
-2025-09-11 17:33:19 | INFO | Processed JSON message: {'timestamp': '2025-09-11T22:33:19.120458', 'temperature': 106.4}
-2025-09-11 17:33:19 | INFO | Rolling window size: 10
-2025-09-11 17:33:19 | INFO | Max stall temperature range: 0.2 F
-2025-09-11 17:33:24 | INFO | Sent message to topic 'smoker_csv': {'timestamp': '2025-09-11T22:33:24.122563', 'temperature': 106.8}
-2025-09-11 17:33:24 | INFO | Processed JSON message: {'timestamp': '2025-09-11T22:33:24.122563', 'temperature': 106.8}
-2025-09-11 17:33:24 | INFO | Rolling window size: 10
-2025-09-11 17:33:24 | INFO | Max stall temperature range: 0.2 F
-2025-09-11 17:33:29 | INFO | Sent message to topic 'smoker_csv': {'timestamp': '2025-09-11T22:33:29.124965', 'temperature': 107.2}
-2025-09-11 17:33:29 | INFO | Processed JSON message: {'timestamp': '2025-09-11T22:33:29.124965', 'temperature': 107.2}
-2025-09-11 17:33:29 | INFO | Rolling window size: 10
-2025-09-11 17:33:29 | INFO | Max stall temperature range: 0.2 F
-2025-09-11 17:33:34 | INFO | Sent message to topic 'smoker_csv': {'timestamp': '2025-09-11T22:33:34.130122', 'temperature': 107.6}
-2025-09-11 17:33:34 | INFO | Processed JSON message: {'timestamp': '2025-09-11T22:33:34.130122', 'temperature': 107.6}
-2025-09-11 17:33:34 | INFO | Rolling window size: 10
-2025-09-11 17:33:34 | INFO | Max stall temperature range: 0.2 F
-2025-09-11 17:33:39 | INFO | Sent message to topic 'smoker_csv': {'timestamp': '2025-09-11T22:33:39.133141', 'temperature': 108.0}
-2025-09-11 17:33:39 | INFO | Processed JSON message: {'timestamp': '2025-09-11T22:33:39.133141', 'temperature': 108.0}
-2025-09-11 17:33:39 | INFO | Rolling window size: 10
-2025-09-11 17:33:39 | INFO | Max stall temperature range: 0.2 F
-2025-09-11 17:33:44 | INFO | Sent message to topic 'smoker_csv': {'timestamp': '2025-09-11T22:33:44.134629', 'temperature': 108.4}
-2025-09-11 17:33:44 | INFO | Processed JSON message: {'timestamp': '2025-09-11T22:33:44.134629', 'temperature': 108.4}
-2025-09-11 17:33:44 | INFO | Rolling window size: 10
-2025-09-11 17:33:44 | INFO | Max stall temperature range: 0.2 F
-2025-09-11 17:33:49 | INFO | Sent message to topic 'smoker_csv': {'timestamp': '2025-09-11T22:33:49.140114', 'temperature': 108.8}
-2025-09-11 17:33:49 | INFO | Processed JSON message: {'timestamp': '2025-09-11T22:33:49.140114', 'temperature': 108.8}
-2025-09-11 17:33:49 | INFO | Rolling window size: 10
-2025-09-11 17:33:49 | INFO | Max stall temperature range: 0.2 F
-2025-09-11 17:33:54 | INFO | Sent message to topic 'smoker_csv': {'timestamp': '2025-09-11T22:33:54.142158', 'temperature': 109.2}
-2025-09-11 17:33:54 | INFO | Processed JSON message: {'timestamp': '2025-09-11T22:33:54.142158', 'temperature': 109.2}
-2025-09-11 17:33:54 | INFO | Rolling window size: 10
-2025-09-11 17:33:54 | INFO | Max stall temperature range: 0.2 F
-2025-09-11 17:33:59 | INFO | Sent message to topic 'smoker_csv': {'timestamp': '2025-09-11T22:33:59.143982', 'temperature': 109.6}
-2025-09-11 17:33:59 | INFO | Processed JSON message: {'timestamp': '2025-09-11T22:33:59.143982', 'temperature': 109.6}
-2025-09-11 17:33:59 | INFO | Rolling window size: 10
-2025-09-11 17:33:59 | INFO | Max stall temperature range: 0.2 F
-2025-09-11 17:34:04 | INFO | Sent message to topic 'smoker_csv': {'timestamp': '2025-09-11T22:34:04.145702', 'temperature': 110.0}
-2025-09-11 17:34:04 | INFO | Processed JSON message: {'timestamp': '2025-09-11T22:34:04.145702', 'temperature': 110.0}
-2025-09-11 17:34:04 | INFO | Rolling window size: 10
-2025-09-11 17:34:04 | INFO | Max stall temperature range: 0.2 F
-2025-09-11 17:34:09 | INFO | Sent message to topic 'smoker_csv': {'timestamp': '2025-09-11T22:34:09.147072', 'temperature': 110.4}
-2025-09-11 17:34:09 | INFO | Processed JSON message: {'timestamp': '2025-09-11T22:34:09.147072', 'temperature': 110.4}
-2025-09-11 17:34:09 | INFO | Rolling window size: 10
-2025-09-11 17:34:09 | INFO | Max stall temperature range: 0.2 F
-2025-09-11 17:34:14 | INFO | Sent message to topic 'smoker_csv': {'timestamp': '2025-09-11T22:34:14.148895', 'temperature': 110.8}
-2025-09-11 17:34:14 | INFO | Processed JSON message: {'timestamp': '2025-09-11T22:34:14.148895', 'temperature': 110.8}
-2025-09-11 17:34:14 | INFO | Rolling window size: 10
-2025-09-11 17:34:14 | INFO | Max stall temperature range: 0.2 F
-2025-09-11 17:34:19 | INFO | Sent message to topic 'smoker_csv': {'timestamp': '2025-09-11T22:34:19.150543', 'temperature': 111.2}
-2025-09-11 17:34:19 | INFO | Processed JSON message: {'timestamp': '2025-09-11T22:34:19.150543', 'temperature': 111.2}
-2025-09-11 17:34:19 | INFO | Rolling window size: 10
-2025-09-11 17:34:19 | INFO | Max stall temperature range: 0.2 F
-2025-09-11 17:34:24 | INFO | Sent message to topic 'smoker_csv': {'timestamp': '2025-09-11T22:34:24.152405', 'temperature': 111.6}
-2025-09-11 17:34:24 | INFO | Processed JSON message: {'timestamp': '2025-09-11T22:34:24.152405', 'temperature': 111.6}
-2025-09-11 17:34:24 | INFO | Rolling window size: 10
-2025-09-11 17:34:24 | INFO | Max stall temperature range: 0.2 F
-2025-09-11 17:34:29 | INFO | Sent message to topic 'smoker_csv': {'timestamp': '2025-09-11T22:34:29.153906', 'temperature': 112.0}
-2025-09-11 17:34:29 | INFO | Processed JSON message: {'timestamp': '2025-09-11T22:34:29.153906', 'temperature': 112.0}
-2025-09-11 17:34:29 | INFO | Rolling window size: 10
-2025-09-11 17:34:29 | INFO | Max stall temperature range: 0.2 F
-2025-09-11 17:34:34 | INFO | Sent message to topic 'smoker_csv': {'timestamp': '2025-09-11T22:34:34.156844', 'temperature': 112.4}
-2025-09-11 17:34:34 | INFO | Processed JSON message: {'timestamp': '2025-09-11T22:34:34.156844', 'temperature': 112.4}
-2025-09-11 17:34:34 | INFO | Rolling window size: 10
-2025-09-11 17:34:34 | INFO | Max stall temperature range: 0.2 F
-2025-09-11 17:34:39 | INFO | Sent message to topic 'smoker_csv': {'timestamp': '2025-09-11T22:34:39.159817', 'temperature': 112.8}
-2025-09-11 17:34:39 | INFO | Processed JSON message: {'timestamp': '2025-09-11T22:34:39.159817', 'temperature': 112.8}
-2025-09-11 17:34:39 | INFO | Rolling window size: 10
-2025-09-11 17:34:39 | INFO | Max stall temperature range: 0.2 F
-2025-09-11 17:34:44 | INFO | Sent message to topic 'smoker_csv': {'timestamp': '2025-09-11T22:34:44.160644', 'temperature': 113.2}
-2025-09-11 17:34:44 | INFO | Processed JSON message: {'timestamp': '2025-09-11T22:34:44.160644', 'temperature': 113.2}
-2025-09-11 17:34:44 | INFO | Rolling window size: 10
-2025-09-11 17:34:44 | INFO | Max stall temperature range: 0.2 F
-2025-09-11 17:34:49 | INFO | Sent message to topic 'smoker_csv': {'timestamp': '2025-09-11T22:34:49.161923', 'temperature': 113.6}
-2025-09-11 17:34:49 | INFO | Processed JSON message: {'timestamp': '2025-09-11T22:34:49.161923', 'temperature': 113.6}
-2025-09-11 17:34:49 | INFO | Rolling window size: 10
-2025-09-11 17:34:49 | INFO | Max stall temperature range: 0.2 F
-2025-09-11 17:34:54 | INFO | Sent message to topic 'smoker_csv': {'timestamp': '2025-09-11T22:34:54.163044', 'temperature': 114.0}
-2025-09-11 17:34:54 | INFO | Processed JSON message: {'timestamp': '2025-09-11T22:34:54.163044', 'temperature': 114.0}
-2025-09-11 17:34:54 | INFO | Rolling window size: 10
-2025-09-11 17:34:54 | INFO | Max stall temperature range: 0.2 F
-2025-09-11 17:34:59 | INFO | Sent message to topic 'smoker_csv': {'timestamp': '2025-09-11T22:34:59.165184', 'temperature': 114.4}
-2025-09-11 17:34:59 | INFO | Processed JSON message: {'timestamp': '2025-09-11T22:34:59.165184', 'temperature': 114.4}
-2025-09-11 17:34:59 | INFO | Rolling window size: 10
-2025-09-11 17:34:59 | INFO | Max stall temperature range: 0.2 F
-2025-09-11 17:35:04 | INFO | Sent message to topic 'smoker_csv': {'timestamp': '2025-09-11T22:35:04.166912', 'temperature': 114.8}
-2025-09-11 17:35:04 | INFO | Processed JSON message: {'timestamp': '2025-09-11T22:35:04.166912', 'temperature': 114.8}
-2025-09-11 17:35:04 | INFO | Rolling window size: 10
-2025-09-11 17:35:04 | INFO | Max stall temperature range: 0.2 F
-2025-09-11 17:35:09 | INFO | Sent message to topic 'smoker_csv': {'timestamp': '2025-09-11T22:35:09.169236', 'temperature': 115.2}
-2025-09-11 17:35:09 | INFO | Processed JSON message: {'timestamp': '2025-09-11T22:35:09.169236', 'temperature': 115.2}
-2025-09-11 17:35:09 | INFO | Rolling window size: 10
-2025-09-11 17:35:09 | INFO | Max stall temperature range: 0.2 F
-2025-09-11 17:35:14 | INFO | Sent message to topic 'smoker_csv': {'timestamp': '2025-09-11T22:35:14.172045', 'temperature': 115.6}
-2025-09-11 17:35:14 | INFO | Processed JSON message: {'timestamp': '2025-09-11T22:35:14.172045', 'temperature': 115.6}
-2025-09-11 17:35:14 | INFO | Rolling window size: 10
-2025-09-11 17:35:14 | INFO | Max stall temperature range: 0.2 F
-2025-09-11 17:35:19 | INFO | Sent message to topic 'smoker_csv': {'timestamp': '2025-09-11T22:35:19.173927', 'temperature': 116.0}
-2025-09-11 17:35:19 | INFO | Processed JSON message: {'timestamp': '2025-09-11T22:35:19.173927', 'temperature': 116.0}
-2025-09-11 17:35:19 | INFO | Rolling window size: 10
-2025-09-11 17:35:19 | INFO | Max stall temperature range: 0.2 F
-2025-09-11 17:35:24 | INFO | Sent message to topic 'smoker_csv': {'timestamp': '2025-09-11T22:35:24.175154', 'temperature': 116.4}
-2025-09-11 17:35:24 | INFO | Processed JSON message: {'timestamp': '2025-09-11T22:35:24.175154', 'temperature': 116.4}
-2025-09-11 17:35:24 | INFO | Rolling window size: 10
-2025-09-11 17:35:24 | INFO | Max stall temperature range: 0.2 F
-2025-09-11 17:35:29 | INFO | Sent message to topic 'smoker_csv': {'timestamp': '2025-09-11T22:35:29.175985', 'temperature': 116.8}
-2025-09-11 17:35:29 | INFO | Processed JSON message: {'timestamp': '2025-09-11T22:35:29.175985', 'temperature': 116.8}
-2025-09-11 17:35:29 | INFO | Rolling window size: 10
-2025-09-11 17:35:29 | INFO | Max stall temperature range: 0.2 F
-2025-09-11 17:35:34 | INFO | Sent message to topic 'smoker_csv': {'timestamp': '2025-09-11T22:35:34.177378', 'temperature': 117.2}
-2025-09-11 17:35:34 | INFO | Processed JSON message: {'timestamp': '2025-09-11T22:35:34.177378', 'temperature': 117.2}
-2025-09-11 17:35:34 | INFO | Rolling window size: 10
-2025-09-11 17:35:34 | INFO | Max stall temperature range: 0.2 F
-2025-09-11 17:35:39 | INFO | Sent message to topic 'smoker_csv': {'timestamp': '2025-09-11T22:35:39.178699', 'temperature': 117.6}
-2025-09-11 17:35:39 | INFO | Processed JSON message: {'timestamp': '2025-09-11T22:35:39.178699', 'temperature': 117.6}
-2025-09-11 17:35:39 | INFO | Rolling window size: 10
-2025-09-11 17:35:39 | INFO | Max stall temperature range: 0.2 F
-2025-09-11 17:35:44 | INFO | Sent message to topic 'smoker_csv': {'timestamp': '2025-09-11T22:35:44.179959', 'temperature': 118.0}
-2025-09-11 17:35:44 | INFO | Processed JSON message: {'timestamp': '2025-09-11T22:35:44.179959', 'temperature': 118.0}
-2025-09-11 17:35:44 | INFO | Rolling window size: 10
-2025-09-11 17:35:44 | INFO | Max stall temperature range: 0.2 F
-2025-09-11 17:35:49 | INFO | Sent message to topic 'smoker_csv': {'timestamp': '2025-09-11T22:35:49.181195', 'temperature': 118.4}
-2025-09-11 17:35:49 | INFO | Processed JSON message: {'timestamp': '2025-09-11T22:35:49.181195', 'temperature': 118.4}
-2025-09-11 17:35:49 | INFO | Rolling window size: 10
-2025-09-11 17:35:49 | INFO | Max stall temperature range: 0.2 F
-2025-09-11 17:35:54 | INFO | Sent message to topic 'smoker_csv': {'timestamp': '2025-09-11T22:35:54.182522', 'temperature': 118.8}
-2025-09-11 17:35:54 | INFO | Processed JSON message: {'timestamp': '2025-09-11T22:35:54.182522', 'temperature': 118.8}
-2025-09-11 17:35:54 | INFO | Rolling window size: 10
-2025-09-11 17:35:54 | INFO | Max stall temperature range: 0.2 F
-2025-09-11 17:35:59 | INFO | Sent message to topic 'smoker_csv': {'timestamp': '2025-09-11T22:35:59.184674', 'temperature': 119.2}
-2025-09-11 17:35:59 | INFO | Processed JSON message: {'timestamp': '2025-09-11T22:35:59.184674', 'temperature': 119.2}
-2025-09-11 17:35:59 | INFO | Rolling window size: 10
-2025-09-11 17:35:59 | INFO | Max stall temperature range: 0.2 F
-2025-09-11 17:36:04 | INFO | Sent message to topic 'smoker_csv': {'timestamp': '2025-09-11T22:36:04.185534', 'temperature': 119.6}
-2025-09-11 17:36:04 | INFO | Processed JSON message: {'timestamp': '2025-09-11T22:36:04.185534', 'temperature': 119.6}
-2025-09-11 17:36:04 | INFO | Rolling window size: 10
-2025-09-11 17:36:04 | INFO | Max stall temperature range: 0.2 F
-2025-09-11 17:36:09 | INFO | Sent message to topic 'smoker_csv': {'timestamp': '2025-09-11T22:36:09.187297', 'temperature': 120.0}
-2025-09-11 17:36:09 | INFO | Processed JSON message: {'timestamp': '2025-09-11T22:36:09.187297', 'temperature': 120.0}
-2025-09-11 17:36:09 | INFO | Rolling window size: 10
-2025-09-11 17:36:09 | INFO | Max stall temperature range: 0.2 F
-2025-09-11 17:36:14 | INFO | Sent message to topic 'smoker_csv': {'timestamp': '2025-09-11T22:36:14.191374', 'temperature': 120.4}
-2025-09-11 17:36:14 | INFO | Processed JSON message: {'timestamp': '2025-09-11T22:36:14.191374', 'temperature': 120.4}
-2025-09-11 17:36:14 | INFO | Rolling window size: 10
-2025-09-11 17:36:14 | INFO | Max stall temperature range: 0.2 F
-2025-09-11 17:36:19 | INFO | Sent message to topic 'smoker_csv': {'timestamp': '2025-09-11T22:36:19.193840', 'temperature': 120.8}
-2025-09-11 17:36:19 | INFO | Processed JSON message: {'timestamp': '2025-09-11T22:36:19.193840', 'temperature': 120.8}
-2025-09-11 17:36:19 | INFO | Rolling window size: 10
-2025-09-11 17:36:19 | INFO | Max stall temperature range: 0.2 F
-2025-09-11 17:36:24 | INFO | Sent message to topic 'smoker_csv': {'timestamp': '2025-09-11T22:36:24.196246', 'temperature': 121.2}
-2025-09-11 17:36:24 | INFO | Processed JSON message: {'timestamp': '2025-09-11T22:36:24.196246', 'temperature': 121.2}
-2025-09-11 17:36:24 | INFO | Rolling window size: 10
-2025-09-11 17:36:24 | INFO | Max stall temperature range: 0.2 F
-2025-09-11 17:36:29 | INFO | Sent message to topic 'smoker_csv': {'timestamp': '2025-09-11T22:36:29.198997', 'temperature': 121.6}
-2025-09-11 17:36:29 | INFO | Processed JSON message: {'timestamp': '2025-09-11T22:36:29.198997', 'temperature': 121.6}
-2025-09-11 17:36:29 | INFO | Rolling window size: 10
-2025-09-11 17:36:29 | INFO | Max stall temperature range: 0.2 F
-2025-09-11 17:36:34 | INFO | Sent message to topic 'smoker_csv': {'timestamp': '2025-09-11T22:36:34.201815', 'temperature': 122.0}
-2025-09-11 17:36:34 | INFO | Processed JSON message: {'timestamp': '2025-09-11T22:36:34.201815', 'temperature': 122.0}
-2025-09-11 17:36:34 | INFO | Rolling window size: 10
-2025-09-11 17:36:34 | INFO | Max stall temperature range: 0.2 F
-2025-09-11 17:36:39 | INFO | Sent message to topic 'smoker_csv': {'timestamp': '2025-09-11T22:36:39.204586', 'temperature': 122.4}
-2025-09-11 17:36:39 | INFO | Processed JSON message: {'timestamp': '2025-09-11T22:36:39.204586', 'temperature': 122.4}
-2025-09-11 17:36:39 | INFO | Rolling window size: 10
-2025-09-11 17:36:39 | INFO | Max stall temperature range: 0.2 F
-2025-09-11 17:36:44 | INFO | Sent message to topic 'smoker_csv': {'timestamp': '2025-09-11T22:36:44.206479', 'temperature': 122.8}
-2025-09-11 17:36:44 | INFO | Processed JSON message: {'timestamp': '2025-09-11T22:36:44.206479', 'temperature': 122.8}
-2025-09-11 17:36:44 | INFO | Rolling window size: 10
-2025-09-11 17:36:44 | INFO | Max stall temperature range: 0.2 F
-2025-09-11 17:36:49 | INFO | Sent message to topic 'smoker_csv': {'timestamp': '2025-09-11T22:36:49.207871', 'temperature': 123.2}
-2025-09-11 17:36:49 | INFO | Processed JSON message: {'timestamp': '2025-09-11T22:36:49.207871', 'temperature': 123.2}
-2025-09-11 17:36:49 | INFO | Rolling window size: 10
-2025-09-11 17:36:49 | INFO | Max stall temperature range: 0.2 F
-2025-09-11 17:36:54 | INFO | Sent message to topic 'smoker_csv': {'timestamp': '2025-09-11T22:36:54.210154', 'temperature': 123.6}
-2025-09-11 17:36:54 | INFO | Processed JSON message: {'timestamp': '2025-09-11T22:36:54.210154', 'temperature': 123.6}
-2025-09-11 17:36:54 | INFO | Rolling window size: 10
-2025-09-11 17:36:54 | INFO | Max stall temperature range: 0.2 F
-2025-09-11 17:36:59 | INFO | Sent message to topic 'smoker_csv': {'timestamp': '2025-09-11T22:36:59.211785', 'temperature': 124.0}
-2025-09-11 17:36:59 | INFO | Processed JSON message: {'timestamp': '2025-09-11T22:36:59.211785', 'temperature': 124.0}
-2025-09-11 17:36:59 | INFO | Rolling window size: 10
-2025-09-11 17:36:59 | INFO | Max stall temperature range: 0.2 F
-2025-09-11 17:37:04 | INFO | Sent message to topic 'smoker_csv': {'timestamp': '2025-09-11T22:37:04.212521', 'temperature': 124.4}
-2025-09-11 17:37:04 | INFO | Processed JSON message: {'timestamp': '2025-09-11T22:37:04.212521', 'temperature': 124.4}
-2025-09-11 17:37:04 | INFO | Rolling window size: 10
-2025-09-11 17:37:04 | INFO | Max stall temperature range: 0.2 F
-2025-09-11 17:37:09 | INFO | Sent message to topic 'smoker_csv': {'timestamp': '2025-09-11T22:37:09.214173', 'temperature': 124.8}
-2025-09-11 17:37:09 | INFO | Processed JSON message: {'timestamp': '2025-09-11T22:37:09.214173', 'temperature': 124.8}
-2025-09-11 17:37:09 | INFO | Rolling window size: 10
-2025-09-11 17:37:09 | INFO | Max stall temperature range: 0.2 F
-2025-09-11 17:37:14 | INFO | Sent message to topic 'smoker_csv': {'timestamp': '2025-09-11T22:37:14.215561', 'temperature': 125.2}
-2025-09-11 17:37:14 | INFO | Processed JSON message: {'timestamp': '2025-09-11T22:37:14.215561', 'temperature': 125.2}
-2025-09-11 17:37:14 | INFO | Rolling window size: 10
-2025-09-11 17:37:14 | INFO | Max stall temperature range: 0.2 F
-2025-09-11 17:37:19 | INFO | Sent message to topic 'smoker_csv': {'timestamp': '2025-09-11T22:37:19.216892', 'temperature': 125.6}
-2025-09-11 17:37:19 | INFO | Processed JSON message: {'timestamp': '2025-09-11T22:37:19.216892', 'temperature': 125.6}
-2025-09-11 17:37:19 | INFO | Rolling window size: 10
-2025-09-11 17:37:19 | INFO | Max stall temperature range: 0.2 F
-2025-09-11 17:37:24 | INFO | Sent message to topic 'smoker_csv': {'timestamp': '2025-09-11T22:37:24.218723', 'temperature': 126.0}
-2025-09-11 17:37:24 | INFO | Processed JSON message: {'timestamp': '2025-09-11T22:37:24.218723', 'temperature': 126.0}
-2025-09-11 17:37:24 | INFO | Rolling window size: 10
-2025-09-11 17:37:24 | INFO | Max stall temperature range: 0.2 F
-2025-09-11 17:37:29 | INFO | Sent message to topic 'smoker_csv': {'timestamp': '2025-09-11T22:37:29.220312', 'temperature': 126.4}
-2025-09-11 17:37:29 | INFO | Processed JSON message: {'timestamp': '2025-09-11T22:37:29.220312', 'temperature': 126.4}
-2025-09-11 17:37:29 | INFO | Rolling window size: 10
-2025-09-11 17:37:29 | INFO | Max stall temperature range: 0.2 F
-2025-09-11 17:37:34 | INFO | Sent message to topic 'smoker_csv': {'timestamp': '2025-09-11T22:37:34.222525', 'temperature': 126.8}
-2025-09-11 17:37:34 | INFO | Processed JSON message: {'timestamp': '2025-09-11T22:37:34.222525', 'temperature': 126.8}
-2025-09-11 17:37:34 | INFO | Rolling window size: 10
-2025-09-11 17:37:34 | INFO | Max stall temperature range: 0.2 F
-2025-09-11 17:37:39 | INFO | Sent message to topic 'smoker_csv': {'timestamp': '2025-09-11T22:37:39.224458', 'temperature': 127.2}
-2025-09-11 17:37:39 | INFO | Processed JSON message: {'timestamp': '2025-09-11T22:37:39.224458', 'temperature': 127.2}
-2025-09-11 17:37:39 | INFO | Rolling window size: 10
-2025-09-11 17:37:39 | INFO | Max stall temperature range: 0.2 F
-2025-09-11 17:37:44 | INFO | Sent message to topic 'smoker_csv': {'timestamp': '2025-09-11T22:37:44.226541', 'temperature': 127.6}
-2025-09-11 17:37:44 | INFO | Processed JSON message: {'timestamp': '2025-09-11T22:37:44.226541', 'temperature': 127.6}
-2025-09-11 17:37:44 | INFO | Rolling window size: 10
-2025-09-11 17:37:44 | INFO | Max stall temperature range: 0.2 F
-2025-09-11 17:37:49 | INFO | Sent message to topic 'smoker_csv': {'timestamp': '2025-09-11T22:37:49.227629', 'temperature': 128.0}
-2025-09-11 17:37:49 | INFO | Processed JSON message: {'timestamp': '2025-09-11T22:37:49.227629', 'temperature': 128.0}
-2025-09-11 17:37:49 | INFO | Rolling window size: 10
-2025-09-11 17:37:49 | INFO | Max stall temperature range: 0.2 F
-2025-09-11 17:37:54 | INFO | Sent message to topic 'smoker_csv': {'timestamp': '2025-09-11T22:37:54.228799', 'temperature': 128.4}
-2025-09-11 17:37:54 | INFO | Processed JSON message: {'timestamp': '2025-09-11T22:37:54.228799', 'temperature': 128.4}
-2025-09-11 17:37:54 | INFO | Rolling window size: 10
-2025-09-11 17:37:54 | INFO | Max stall temperature range: 0.2 F
-2025-09-11 17:37:59 | INFO | Sent message to topic 'smoker_csv': {'timestamp': '2025-09-11T22:37:59.231195', 'temperature': 128.8}
-2025-09-11 17:37:59 | INFO | Processed JSON message: {'timestamp': '2025-09-11T22:37:59.231195', 'temperature': 128.8}
-2025-09-11 17:37:59 | INFO | Rolling window size: 10
-2025-09-11 17:37:59 | INFO | Max stall temperature range: 0.2 F
-2025-09-11 17:38:04 | INFO | Sent message to topic 'smoker_csv': {'timestamp': '2025-09-11T22:38:04.233253', 'temperature': 129.2}
-2025-09-11 17:38:04 | INFO | Processed JSON message: {'timestamp': '2025-09-11T22:38:04.233253', 'temperature': 129.2}
-2025-09-11 17:38:04 | INFO | Rolling window size: 10
-2025-09-11 17:38:04 | INFO | Max stall temperature range: 0.2 F
-2025-09-11 17:38:09 | INFO | Sent message to topic 'smoker_csv': {'timestamp': '2025-09-11T22:38:09.234803', 'temperature': 129.6}
-2025-09-11 17:38:09 | INFO | Processed JSON message: {'timestamp': '2025-09-11T22:38:09.234803', 'temperature': 129.6}
-2025-09-11 17:38:09 | INFO | Rolling window size: 10
-2025-09-11 17:38:09 | INFO | Max stall temperature range: 0.2 F
-2025-09-11 17:38:14 | INFO | Sent message to topic 'smoker_csv': {'timestamp': '2025-09-11T22:38:14.236412', 'temperature': 130.0}
-2025-09-11 17:38:14 | INFO | Processed JSON message: {'timestamp': '2025-09-11T22:38:14.236412', 'temperature': 130.0}
-2025-09-11 17:38:14 | INFO | Rolling window size: 10
-2025-09-11 17:38:14 | INFO | Max stall temperature range: 0.2 F
-2025-09-11 17:38:19 | INFO | Sent message to topic 'smoker_csv': {'timestamp': '2025-09-11T22:38:19.237944', 'temperature': 130.4}
-2025-09-11 17:38:19 | INFO | Processed JSON message: {'timestamp': '2025-09-11T22:38:19.237944', 'temperature': 130.4}
-2025-09-11 17:38:19 | INFO | Rolling window size: 10
-2025-09-11 17:38:19 | INFO | Max stall temperature range: 0.2 F
-2025-09-11 17:38:24 | INFO | Sent message to topic 'smoker_csv': {'timestamp': '2025-09-11T22:38:24.239478', 'temperature': 130.8}
-2025-09-11 17:38:24 | INFO | Processed JSON message: {'timestamp': '2025-09-11T22:38:24.239478', 'temperature': 130.8}
-2025-09-11 17:38:24 | INFO | Rolling window size: 10
-2025-09-11 17:38:24 | INFO | Max stall temperature range: 0.2 F
-2025-09-11 17:38:29 | INFO | Sent message to topic 'smoker_csv': {'timestamp': '2025-09-11T22:38:29.241040', 'temperature': 131.2}
-2025-09-11 17:38:29 | INFO | Processed JSON message: {'timestamp': '2025-09-11T22:38:29.241040', 'temperature': 131.2}
-2025-09-11 17:38:29 | INFO | Rolling window size: 10
-2025-09-11 17:38:29 | INFO | Max stall temperature range: 0.2 F
-2025-09-11 17:38:34 | INFO | Sent message to topic 'smoker_csv': {'timestamp': '2025-09-11T22:38:34.242896', 'temperature': 131.6}
-2025-09-11 17:38:34 | INFO | Processed JSON message: {'timestamp': '2025-09-11T22:38:34.242896', 'temperature': 131.6}
-2025-09-11 17:38:34 | INFO | Rolling window size: 10
-2025-09-11 17:38:34 | INFO | Max stall temperature range: 0.2 F
-2025-09-11 17:38:39 | INFO | Sent message to topic 'smoker_csv': {'timestamp': '2025-09-11T22:38:39.245058', 'temperature': 132.0}
-2025-09-11 17:38:39 | INFO | Processed JSON message: {'timestamp': '2025-09-11T22:38:39.245058', 'temperature': 132.0}
-2025-09-11 17:38:39 | INFO | Rolling window size: 10
-2025-09-11 17:38:39 | INFO | Max stall temperature range: 0.2 F
-2025-09-11 17:38:44 | INFO | Sent message to topic 'smoker_csv': {'timestamp': '2025-09-11T22:38:44.247259', 'temperature': 132.4}
-2025-09-11 17:38:44 | INFO | Processed JSON message: {'timestamp': '2025-09-11T22:38:44.247259', 'temperature': 132.4}
-2025-09-11 17:38:44 | INFO | Rolling window size: 10
-2025-09-11 17:38:44 | INFO | Max stall temperature range: 0.2 F
-2025-09-11 17:38:49 | WARNING | Producer interrupted by user.
-2025-09-11 17:38:49 | INFO | Kafka producer closed.
-2025-09-11 17:38:49 | INFO | END producer.
-2025-09-11 17:38:51 | WARNING | Consumer interrupted by user.
-2025-09-11 17:38:51 | INFO | Kafka consumer for topic 'smoker_csv' closed.
+2025-09-13 17:40:42 | INFO | Sent message to topic 'buzzline_json': {'message': 'Have a great day!', 'author': 'Diana'}
+2025-09-13 17:40:43 | INFO | Sent message to topic 'buzzline_json': {'message': 'I love Python!', 'author': 'Alice'}
+2025-09-13 17:40:44 | INFO | Sent message to topic 'buzzline_json': {'message': 'Streaming data is fun.', 'author': 'Charlie'}
+2025-09-13 17:40:45 | INFO | Sent message to topic 'buzzline_json': {'message': 'Kafka is awesome.', 'author': 'Alice'}
+2025-09-13 17:40:46 | INFO | Sent message to topic 'buzzline_json': {'message': 'Kafka is awesome.', 'author': 'Diana'}
+2025-09-13 17:40:47 | INFO | Sent message to topic 'buzzline_json': {'message': 'Kafka is awesome.', 'author': 'Alice'}
+2025-09-13 17:40:48 | INFO | Sent message to topic 'buzzline_json': {'message': 'JSON makes life easier.', 'author': 'Bob'}
+2025-09-13 17:40:49 | INFO | Sent message to topic 'buzzline_json': {'message': 'This is a buzz message.', 'author': 'Bob'}
+2025-09-13 17:40:49 | WARNING | Producer interrupted by user.
+2025-09-13 17:40:49 | INFO | Kafka producer closed.
+2025-09-13 17:40:49 | INFO | END producer.
+2025-09-13 17:52:30 | INFO | Logging to file: logs/project_log.log
+2025-09-13 17:52:30 | INFO | Log sanitization enabled, personal info removed
+2025-09-13 17:52:30 | INFO | Project root: C:/Users/USER/Documents/datastream-01/buzzline-03-hanson
+2025-09-13 17:52:30 | INFO | Data folder: C:/Users/USER/Documents/datastream-01/buzzline-03-hanson/data
+2025-09-13 17:52:30 | INFO | Data file: C:/Users/USER/Documents/datastream-01/buzzline-03-hanson/data/buzz.json
+2025-09-13 17:52:30 | INFO | START producer.
+2025-09-13 17:52:30 | INFO | Kafka broker address: localhost:9092
+2025-09-13 17:52:31 | INFO | Kafka is ready. Brokers: {'throttle_time_ms': 0, 'brokers': [{'node_id': 1, 'host': 'localhost', 'port': 9092, 'rack': None}], 'cluster_id': 'HgK16oaASYSw0OdYOPF66A', 'controller_id': 1}
+2025-09-13 17:52:31 | INFO | Kafka topic: buzzline_json
+2025-09-13 17:52:31 | INFO | Message interval: 1 seconds
+2025-09-13 17:52:31 | INFO | Kafka broker address: localhost:9092
+2025-09-13 17:52:31 | INFO | Connecting to Kafka broker at localhost:9092...
+2025-09-13 17:52:31 | INFO | Kafka producer successfully created.
+2025-09-13 17:52:31 | INFO | Kafka broker address: localhost:9092
+2025-09-13 17:52:31 | INFO | Topic 'buzzline_json' already exists. Recreating fresh...
+2025-09-13 17:52:31 | INFO | Requested deletion of topic 'buzzline_json'.
+2025-09-13 17:52:31 | INFO | Topic 'buzzline_json' created successfully.
+2025-09-13 17:52:31 | INFO | Kafka topic 'buzzline_json' is ready.
+2025-09-13 17:52:31 | INFO | Starting message production to topic 'buzzline_json'...
+2025-09-13 17:52:31 | INFO | Opening data file in read mode: C:/Users/USER/Documents/datastream-01/buzzline-03-hanson/data/buzz.json
+2025-09-13 17:52:31 | INFO | Reading data from file: C:/Users/USER/Documents/datastream-01/buzzline-03-hanson/data/buzz.json
+2025-09-13 17:52:31 | INFO | Sent message to topic 'buzzline_json': {'message': 'Data engineering is my passion.', 'author': 'Eve', 'group': 'F', 'grade': '1st'}
+2025-09-13 17:52:32 | INFO | Sent message to topic 'buzzline_json': {'message': 'Distributed systems are fascinating.', 'author': 'Alice', 'group': 'A', 'grade': '6th'}
+2025-09-13 17:52:33 | INFO | Sent message to topic 'buzzline_json': {'message': 'Have a great day!', 'author': 'Charlie', 'group': 'C', 'grade': '7th'}
+2025-09-13 17:52:34 | INFO | Sent message to topic 'buzzline_json': {'message': 'Data engineering is my passion.', 'author': 'Alice', 'group': 'F', 'grade': '5th'}
+2025-09-13 17:52:35 | INFO | Sent message to topic 'buzzline_json': {'message': 'Distributed systems are fascinating.', 'author': 'Diana', 'group': 'C', 'grade': '1st'}
+2025-09-13 17:52:36 | INFO | Sent message to topic 'buzzline_json': {'message': 'Buzz messages for everyone.', 'author': 'Alice', 'group': 'G', 'grade': '6th'}
+2025-09-13 17:52:37 | INFO | Sent message to topic 'buzzline_json': {'message': 'Hello, Kafka world!', 'author': 'Diana', 'group': 'A', 'grade': '6th'}
+2025-09-13 17:52:38 | INFO | Sent message to topic 'buzzline_json': {'message': 'This is a buzz message.', 'author': 'Eve', 'group': 'F', 'grade': '2nd'}
+2025-09-13 17:52:39 | INFO | Sent message to topic 'buzzline_json': {'message': 'JSON makes life easier.', 'author': 'Eve', 'group': 'F', 'grade': '7th'}
+2025-09-13 17:52:40 | INFO | Sent message to topic 'buzzline_json': {'message': 'JSON makes life easier.', 'author': 'Alice', 'group': 'D', 'grade': '7th'}
+2025-09-13 17:52:41 | INFO | Sent message to topic 'buzzline_json': {'message': 'Data engineering is my passion.', 'author': 'Diana', 'group': 'E', 'grade': '3rd'}
+2025-09-13 17:52:42 | INFO | Sent message to topic 'buzzline_json': {'message': 'JSON makes life easier.', 'author': 'Diana', 'group': 'B', 'grade': '6th'}
+2025-09-13 17:52:43 | INFO | Sent message to topic 'buzzline_json': {'message': 'Kafka is awesome.', 'author': 'Charlie', 'group': 'A', 'grade': '1st'}
+2025-09-13 17:52:44 | INFO | Sent message to topic 'buzzline_json': {'message': 'JSON makes life easier.', 'author': 'Bob', 'group': 'B', 'grade': '1st'}
+2025-09-13 17:52:45 | WARNING | Producer interrupted by user.
+2025-09-13 17:52:45 | INFO | Kafka producer closed.
+2025-09-13 17:52:45 | INFO | END producer.
+2025-09-13 17:55:48 | INFO | Logging to file: logs/project_log.log
+2025-09-13 17:55:48 | INFO | Log sanitization enabled, personal info removed
+2025-09-13 17:55:48 | INFO | Project root: C:/Users/USER/Documents/datastream-01/buzzline-03-hanson
+2025-09-13 17:55:48 | INFO | Data folder: C:/Users/USER/Documents/datastream-01/buzzline-03-hanson/data
+2025-09-13 17:55:48 | INFO | Data file: C:/Users/USER/Documents/datastream-01/buzzline-03-hanson/data/buzz.json
+2025-09-13 17:55:48 | INFO | START producer.
+2025-09-13 17:55:48 | INFO | Kafka broker address: localhost:9092
+2025-09-13 17:55:48 | INFO | Kafka is ready. Brokers: {'throttle_time_ms': 0, 'brokers': [{'node_id': 1, 'host': 'localhost', 'port': 9092, 'rack': None}], 'cluster_id': 'HgK16oaASYSw0OdYOPF66A', 'controller_id': 1}
+2025-09-13 17:55:48 | INFO | Kafka topic: buzzline_json
+2025-09-13 17:55:48 | INFO | Message interval: 1 seconds
+2025-09-13 17:55:48 | INFO | Kafka broker address: localhost:9092
+2025-09-13 17:55:48 | INFO | Connecting to Kafka broker at localhost:9092...
+2025-09-13 17:55:48 | INFO | Kafka producer successfully created.
+2025-09-13 17:55:48 | INFO | Kafka broker address: localhost:9092
+2025-09-13 17:55:49 | INFO | Topic 'buzzline_json' already exists. Recreating fresh...
+2025-09-13 17:55:49 | INFO | Requested deletion of topic 'buzzline_json'.
+2025-09-13 17:55:49 | INFO | Topic 'buzzline_json' created successfully.
+2025-09-13 17:55:49 | INFO | Kafka topic 'buzzline_json' is ready.
+2025-09-13 17:55:49 | INFO | Starting message production to topic 'buzzline_json'...
+2025-09-13 17:55:49 | INFO | Opening data file in read mode: C:/Users/USER/Documents/datastream-01/buzzline-03-hanson/data/buzz.json
+2025-09-13 17:55:49 | INFO | Reading data from file: C:/Users/USER/Documents/datastream-01/buzzline-03-hanson/data/buzz.json
+2025-09-13 17:55:49 | INFO | Sent message to topic 'buzzline_json': {'message': 'Data engineering is my passion.', 'author': 'Eve', 'group': 'B', 'grade': '7th'}
+2025-09-13 17:55:50 | INFO | Sent message to topic 'buzzline_json': {'message': 'Distributed systems are fascinating.', 'author': 'Alice', 'group': 'A', 'grade': '6th'}
+2025-09-13 17:55:51 | INFO | Sent message to topic 'buzzline_json': {'message': 'Have a great day!', 'author': 'Charlie', 'group': 'B', 'grade': '3rd'}
+2025-09-13 17:55:52 | INFO | Sent message to topic 'buzzline_json': {'message': 'Data engineering is my passion.', 'author': 'Alice', 'group': 'B', 'grade': '1st'}
+2025-09-13 17:55:53 | INFO | Sent message to topic 'buzzline_json': {'message': 'Distributed systems are fascinating.', 'author': 'Diana', 'group': 'E', 'grade': '1st'}
+2025-09-13 17:55:54 | INFO | Sent message to topic 'buzzline_json': {'message': 'Buzz messages for everyone.', 'author': 'Alice', 'group': 'G', 'grade': '1st'}
+2025-09-13 17:55:55 | INFO | Sent message to topic 'buzzline_json': {'message': 'Hello, Kafka world!', 'author': 'Diana', 'group': 'F', 'grade': '3rd'}
+2025-09-13 17:55:56 | INFO | Sent message to topic 'buzzline_json': {'message': 'This is a buzz message.', 'author': 'Eve', 'group': 'D', 'grade': '6th'}
+2025-09-13 17:55:57 | INFO | Sent message to topic 'buzzline_json': {'message': 'JSON makes life easier.', 'author': 'Eve', 'group': 'F', 'grade': '4th'}
+2025-09-13 17:55:58 | INFO | Sent message to topic 'buzzline_json': {'message': 'JSON makes life easier.', 'author': 'Alice', 'group': 'C', 'grade': '7th'}
+2025-09-13 17:55:59 | INFO | Sent message to topic 'buzzline_json': {'message': 'Data engineering is my passion.', 'author': 'Diana', 'group': 'B', 'grade': '7th'}
+2025-09-13 17:56:00 | WARNING | Producer interrupted by user.
+2025-09-13 17:56:00 | INFO | Kafka producer closed.
+2025-09-13 17:56:00 | INFO | END producer.
+2025-09-13 17:56:09 | INFO | Logging to file: logs/project_log.log
+2025-09-13 17:56:09 | INFO | Log sanitization enabled, personal info removed
+2025-09-13 17:56:09 | INFO | Project root: C:/Users/USER/Documents/datastream-01/buzzline-03-hanson
+2025-09-13 17:56:09 | INFO | Data folder: C:/Users/USER/Documents/datastream-01/buzzline-03-hanson/data
+2025-09-13 17:56:09 | INFO | Data file: C:/Users/USER/Documents/datastream-01/buzzline-03-hanson/data/smoker_temps.csv
+2025-09-13 17:56:09 | INFO | START producer.
+2025-09-13 17:56:09 | INFO | Kafka broker address: localhost:9092
+2025-09-13 17:56:10 | INFO | Kafka is ready. Brokers: {'throttle_time_ms': 0, 'brokers': [{'node_id': 1, 'host': 'localhost', 'port': 9092, 'rack': None}], 'cluster_id': 'HgK16oaASYSw0OdYOPF66A', 'controller_id': 1}
+2025-09-13 17:56:10 | INFO | Kafka topic: smoker_csv
+2025-09-13 17:56:10 | INFO | Message interval: 5 seconds
+2025-09-13 17:56:10 | INFO | Kafka broker address: localhost:9092
+2025-09-13 17:56:10 | INFO | Connecting to Kafka broker at localhost:9092...
+2025-09-13 17:56:10 | INFO | Kafka producer successfully created.
+2025-09-13 17:56:10 | INFO | Kafka broker address: localhost:9092
+2025-09-13 17:56:10 | INFO | Topic 'smoker_csv' already exists. Recreating fresh...
+2025-09-13 17:56:10 | INFO | Requested deletion of topic 'smoker_csv'.
+2025-09-13 17:56:10 | INFO | Topic 'smoker_csv' created successfully.
+2025-09-13 17:56:10 | INFO | Kafka topic 'smoker_csv' is ready.
+2025-09-13 17:56:10 | INFO | Starting message production to topic 'smoker_csv'...
+2025-09-13 17:56:10 | INFO | Opening data file in read mode: C:/Users/USER/Documents/datastream-01/buzzline-03-hanson/data/smoker_temps.csv
+2025-09-13 17:56:10 | INFO | Reading data from file: C:/Users/USER/Documents/datastream-01/buzzline-03-hanson/data/smoker_temps.csv
+2025-09-13 17:56:10 | INFO | Sent message to topic 'smoker_csv': {'timestamp': '2025-09-13T22:56:10.673905', 'temperature': 70.4, 'country': 'FR', 'city': 'New York'}
+2025-09-13 17:56:15 | INFO | Sent message to topic 'smoker_csv': {'timestamp': '2025-09-13T22:56:15.676199', 'temperature': 70.8, 'country': 'FR', 'city': 'Berlin'}
+2025-09-13 17:56:20 | INFO | Sent message to topic 'smoker_csv': {'timestamp': '2025-09-13T22:56:20.678378', 'temperature': 71.2, 'country': 'IN', 'city': 'New York'}
+2025-09-13 17:56:25 | INFO | Sent message to topic 'smoker_csv': {'timestamp': '2025-09-13T22:56:25.681123', 'temperature': 71.6, 'country': 'FR', 'city': 'Beijing'}
+2025-09-13 17:56:26 | WARNING | Producer interrupted by user.
+2025-09-13 17:56:26 | INFO | Kafka producer closed.
+2025-09-13 17:56:26 | INFO | END producer.

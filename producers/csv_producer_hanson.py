@@ -19,6 +19,7 @@ import pathlib  # work with file paths
 import csv  # handle CSV data
 import json  # work with JSON data
 from datetime import datetime  # work with timestamps
+import random  # generate random values
 
 # Import external packages
 from dotenv import load_dotenv
@@ -88,6 +89,9 @@ def generate_messages(file_path: pathlib.Path):
     Yields:
         str: CSV row formatted as a string.
     """
+    countries = ["US", "UK", "DE", "FR", "IN", "CN", "JP"]
+    cities = ["New York", "London", "Berlin", "Paris", "Mumbai", "Beijing", "Tokyo"]
+
     while True:
         try:
             logger.info(f"Opening data file in read mode: {DATA_FILE}")
@@ -107,6 +111,9 @@ def generate_messages(file_path: pathlib.Path):
                         "timestamp": current_timestamp,
                         "temperature": float(row["temperature"]),
                     }
+                    # Add random country and city to each entry
+                    message["country"] = random.choice(countries)
+                    message["city"] = random.choice(cities)
                     logger.debug(f"Generated message: {message}")
                     yield message
         except FileNotFoundError:

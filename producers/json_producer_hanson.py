@@ -22,6 +22,7 @@ import time
 import pathlib  # work with file paths
 import json  # work with JSON data
 from typing import Generator, Dict, Any
+import random  # generate random values
 
 # Import external packages
 from dotenv import load_dotenv
@@ -93,6 +94,9 @@ def generate_messages(file_path: pathlib.Path) -> Generator[Dict[str, Any], None
     Yields:
         dict: A dictionary containing the JSON data.
     """
+    groups = ['A', 'B', 'C', 'D', 'E', 'F', 'G']
+    grades = ['1st', '2nd', '3rd', '4th', '5th', '6th', '7th']
+
     while True:
         try:
             logger.info(f"Opening data file in read mode: {DATA_FILE}")
@@ -102,8 +106,11 @@ def generate_messages(file_path: pathlib.Path) -> Generator[Dict[str, Any], None
                 # Load the JSON file as a list of dictionaries
                 json_data: list[Dict[str, Any]] = json.load(json_file)
 
-                # Iterate over the entries in the JSON file
+                # Iterate over the entries in the JSON file, updating the index
                 for buzz_entry in json_data:
+                    # Add random group and grade to each entry
+                    buzz_entry["group"] = random.choice(groups)
+                    buzz_entry["grade"] = random.choice(grades)
                     logger.debug(f"Generated JSON: {buzz_entry}")
                     yield buzz_entry
         
