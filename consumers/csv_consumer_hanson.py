@@ -124,6 +124,7 @@ def process_message(message: str, rolling_window: deque, window_size: int) -> No
         data: dict = json.loads(message)
         temperature = data.get("temperature")
         timestamp = data.get("timestamp")
+        city = data.get("city", "unknown")
         logger.info(f"Processed JSON message: {data}")
 
         # Ensure the required fields are present
@@ -133,6 +134,9 @@ def process_message(message: str, rolling_window: deque, window_size: int) -> No
 
         # Append the temperature reading to the rolling window
         rolling_window.append(temperature)
+
+        # Append the city to the rolling window (for logging purposes)
+        rolling_window.append(city)
 
         # Check for a stall
         if detect_stall(rolling_window):

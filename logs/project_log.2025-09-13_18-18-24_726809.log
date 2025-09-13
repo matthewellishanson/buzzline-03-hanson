@@ -1,0 +1,450 @@
+2025-09-13 18:18:24 | INFO | Sent message to topic 'buzzline_json': {'message': 'Have a great day!', 'author': 'Diana', 'group': 'G', 'grade': '3rd'}
+2025-09-13 18:18:24 | INFO | Processed JSON message: {'message': 'Have a great day!', 'author': 'Diana', 'group': 'G', 'grade': '3rd'}
+2025-09-13 18:18:24 | INFO | Message received from author: Diana
+2025-09-13 18:18:24 | INFO | Message contains grade: 3rd
+2025-09-13 18:18:24 | INFO | Updated author counts: {'Eve': 8, 'Alice': 15, 'Charlie': 7, 'Diana': 16, 'Bob': 11}
+2025-09-13 18:18:24 | INFO | Updated grade counts: {'3rd': 9, '1st': 5, '4th': 8, '2nd': 10, '5th': 12, '6th': 11, '7th': 2}
+2025-09-13 18:18:25 | INFO | Sent message to topic 'buzzline_json': {'message': 'Distributed systems are fascinating.', 'author': 'Bob', 'group': 'E', 'grade': '2nd'}
+2025-09-13 18:18:25 | INFO | Processed JSON message: {'message': 'Distributed systems are fascinating.', 'author': 'Bob', 'group': 'E', 'grade': '2nd'}
+2025-09-13 18:18:25 | INFO | Message received from author: Bob
+2025-09-13 18:18:25 | INFO | Message contains grade: 2nd
+2025-09-13 18:18:25 | INFO | Updated author counts: {'Eve': 8, 'Alice': 15, 'Charlie': 7, 'Diana': 16, 'Bob': 12}
+2025-09-13 18:18:25 | INFO | Updated grade counts: {'3rd': 9, '1st': 5, '4th': 8, '2nd': 11, '5th': 12, '6th': 11, '7th': 2}
+2025-09-13 18:18:26 | INFO | Sent message to topic 'buzzline_json': {'message': 'Kafka is awesome.', 'author': 'Alice', 'group': 'B', 'grade': '3rd'}
+2025-09-13 18:18:26 | INFO | Processed JSON message: {'message': 'Kafka is awesome.', 'author': 'Alice', 'group': 'B', 'grade': '3rd'}
+2025-09-13 18:18:26 | INFO | Message received from author: Alice
+2025-09-13 18:18:26 | INFO | Message contains grade: 3rd
+2025-09-13 18:18:26 | INFO | Updated author counts: {'Eve': 8, 'Alice': 16, 'Charlie': 7, 'Diana': 16, 'Bob': 12}
+2025-09-13 18:18:26 | INFO | Updated grade counts: {'3rd': 10, '1st': 5, '4th': 8, '2nd': 11, '5th': 12, '6th': 11, '7th': 2}
+2025-09-13 18:18:27 | INFO | Sent message to topic 'buzzline_json': {'message': 'Streaming data is fun.', 'author': 'Alice', 'group': 'C', 'grade': '1st'}
+2025-09-13 18:18:27 | INFO | Processed JSON message: {'message': 'Streaming data is fun.', 'author': 'Alice', 'group': 'C', 'grade': '1st'}
+2025-09-13 18:18:27 | INFO | Message received from author: Alice
+2025-09-13 18:18:27 | INFO | Message contains grade: 1st
+2025-09-13 18:18:27 | INFO | Updated author counts: {'Eve': 8, 'Alice': 17, 'Charlie': 7, 'Diana': 16, 'Bob': 12}
+2025-09-13 18:18:27 | INFO | Updated grade counts: {'3rd': 10, '1st': 6, '4th': 8, '2nd': 11, '5th': 12, '6th': 11, '7th': 2}
+2025-09-13 18:18:28 | INFO | Sent message to topic 'buzzline_json': {'message': 'Have a great day!', 'author': 'Diana', 'group': 'B', 'grade': '2nd'}
+2025-09-13 18:18:28 | INFO | Processed JSON message: {'message': 'Have a great day!', 'author': 'Diana', 'group': 'B', 'grade': '2nd'}
+2025-09-13 18:18:28 | INFO | Message received from author: Diana
+2025-09-13 18:18:28 | INFO | Message contains grade: 2nd
+2025-09-13 18:18:28 | INFO | Updated author counts: {'Eve': 8, 'Alice': 17, 'Charlie': 7, 'Diana': 17, 'Bob': 12}
+2025-09-13 18:18:28 | INFO | Updated grade counts: {'3rd': 10, '1st': 6, '4th': 8, '2nd': 12, '5th': 12, '6th': 11, '7th': 2}
+2025-09-13 18:18:29 | INFO | Sent message to topic 'buzzline_json': {'message': 'Streaming data is fun.', 'author': 'Alice', 'group': 'F', 'grade': '7th'}
+2025-09-13 18:18:29 | INFO | Processed JSON message: {'message': 'Streaming data is fun.', 'author': 'Alice', 'group': 'F', 'grade': '7th'}
+2025-09-13 18:18:29 | INFO | Message received from author: Alice
+2025-09-13 18:18:29 | INFO | Message contains grade: 7th
+2025-09-13 18:18:29 | INFO | Updated author counts: {'Eve': 8, 'Alice': 18, 'Charlie': 7, 'Diana': 17, 'Bob': 12}
+2025-09-13 18:18:29 | INFO | Updated grade counts: {'3rd': 10, '1st': 6, '4th': 8, '2nd': 12, '5th': 12, '6th': 11, '7th': 3}
+2025-09-13 18:18:30 | INFO | Sent message to topic 'buzzline_json': {'message': 'This is a buzz message.', 'author': 'Diana', 'group': 'F', 'grade': '6th'}
+2025-09-13 18:18:30 | INFO | Processed JSON message: {'message': 'This is a buzz message.', 'author': 'Diana', 'group': 'F', 'grade': '6th'}
+2025-09-13 18:18:30 | INFO | Message received from author: Diana
+2025-09-13 18:18:30 | INFO | Message contains grade: 6th
+2025-09-13 18:18:30 | INFO | Updated author counts: {'Eve': 8, 'Alice': 18, 'Charlie': 7, 'Diana': 18, 'Bob': 12}
+2025-09-13 18:18:30 | INFO | Updated grade counts: {'3rd': 10, '1st': 6, '4th': 8, '2nd': 12, '5th': 12, '6th': 12, '7th': 3}
+2025-09-13 18:18:31 | INFO | Sent message to topic 'buzzline_json': {'message': 'Data engineering is my passion.', 'author': 'Bob', 'group': 'F', 'grade': '6th'}
+2025-09-13 18:18:31 | INFO | Processed JSON message: {'message': 'Data engineering is my passion.', 'author': 'Bob', 'group': 'F', 'grade': '6th'}
+2025-09-13 18:18:31 | INFO | Message received from author: Bob
+2025-09-13 18:18:31 | INFO | Message contains grade: 6th
+2025-09-13 18:18:31 | INFO | Updated author counts: {'Eve': 8, 'Alice': 18, 'Charlie': 7, 'Diana': 18, 'Bob': 13}
+2025-09-13 18:18:31 | INFO | Updated grade counts: {'3rd': 10, '1st': 6, '4th': 8, '2nd': 12, '5th': 12, '6th': 13, '7th': 3}
+2025-09-13 18:18:32 | INFO | Sent message to topic 'buzzline_json': {'message': 'Have a great day!', 'author': 'Diana', 'group': 'D', 'grade': '1st'}
+2025-09-13 18:18:32 | INFO | Processed JSON message: {'message': 'Have a great day!', 'author': 'Diana', 'group': 'D', 'grade': '1st'}
+2025-09-13 18:18:32 | INFO | Message received from author: Diana
+2025-09-13 18:18:32 | INFO | Message contains grade: 1st
+2025-09-13 18:18:32 | INFO | Updated author counts: {'Eve': 8, 'Alice': 18, 'Charlie': 7, 'Diana': 19, 'Bob': 13}
+2025-09-13 18:18:32 | INFO | Updated grade counts: {'3rd': 10, '1st': 7, '4th': 8, '2nd': 12, '5th': 12, '6th': 13, '7th': 3}
+2025-09-13 18:18:33 | INFO | Sent message to topic 'buzzline_json': {'message': 'Kafka is awesome.', 'author': 'Alice', 'group': 'G', 'grade': '6th'}
+2025-09-13 18:18:33 | INFO | Processed JSON message: {'message': 'Kafka is awesome.', 'author': 'Alice', 'group': 'G', 'grade': '6th'}
+2025-09-13 18:18:33 | INFO | Message received from author: Alice
+2025-09-13 18:18:33 | INFO | Message contains grade: 6th
+2025-09-13 18:18:33 | INFO | Updated author counts: {'Eve': 8, 'Alice': 19, 'Charlie': 7, 'Diana': 19, 'Bob': 13}
+2025-09-13 18:18:33 | INFO | Updated grade counts: {'3rd': 10, '1st': 7, '4th': 8, '2nd': 12, '5th': 12, '6th': 14, '7th': 3}
+2025-09-13 18:18:34 | INFO | Sent message to topic 'buzzline_json': {'message': 'Kafka is awesome.', 'author': 'Eve', 'group': 'D', 'grade': '7th'}
+2025-09-13 18:18:34 | INFO | Processed JSON message: {'message': 'Kafka is awesome.', 'author': 'Eve', 'group': 'D', 'grade': '7th'}
+2025-09-13 18:18:34 | INFO | Message received from author: Eve
+2025-09-13 18:18:34 | INFO | Message contains grade: 7th
+2025-09-13 18:18:34 | INFO | Updated author counts: {'Eve': 9, 'Alice': 19, 'Charlie': 7, 'Diana': 19, 'Bob': 13}
+2025-09-13 18:18:34 | INFO | Updated grade counts: {'3rd': 10, '1st': 7, '4th': 8, '2nd': 12, '5th': 12, '6th': 14, '7th': 4}
+2025-09-13 18:18:35 | INFO | Sent message to topic 'buzzline_json': {'message': 'Have a great day!', 'author': 'Diana', 'group': 'A', 'grade': '2nd'}
+2025-09-13 18:18:35 | INFO | Processed JSON message: {'message': 'Have a great day!', 'author': 'Diana', 'group': 'A', 'grade': '2nd'}
+2025-09-13 18:18:35 | INFO | Message received from author: Diana
+2025-09-13 18:18:35 | INFO | Message contains grade: 2nd
+2025-09-13 18:18:35 | INFO | Updated author counts: {'Eve': 9, 'Alice': 19, 'Charlie': 7, 'Diana': 20, 'Bob': 13}
+2025-09-13 18:18:35 | INFO | Updated grade counts: {'3rd': 10, '1st': 7, '4th': 8, '2nd': 13, '5th': 12, '6th': 14, '7th': 4}
+2025-09-13 18:18:36 | INFO | Sent message to topic 'buzzline_json': {'message': 'Buzz messages for everyone.', 'author': 'Charlie', 'group': 'G', 'grade': '4th'}
+2025-09-13 18:18:36 | INFO | Processed JSON message: {'message': 'Buzz messages for everyone.', 'author': 'Charlie', 'group': 'G', 'grade': '4th'}
+2025-09-13 18:18:36 | INFO | Message received from author: Charlie
+2025-09-13 18:18:36 | INFO | Message contains grade: 4th
+2025-09-13 18:18:36 | INFO | Updated author counts: {'Eve': 9, 'Alice': 19, 'Charlie': 8, 'Diana': 20, 'Bob': 13}
+2025-09-13 18:18:36 | INFO | Updated grade counts: {'3rd': 10, '1st': 7, '4th': 9, '2nd': 13, '5th': 12, '6th': 14, '7th': 4}
+2025-09-13 18:18:37 | INFO | Sent message to topic 'buzzline_json': {'message': 'This is a buzz message.', 'author': 'Charlie', 'group': 'C', 'grade': '5th'}
+2025-09-13 18:18:37 | INFO | Processed JSON message: {'message': 'This is a buzz message.', 'author': 'Charlie', 'group': 'C', 'grade': '5th'}
+2025-09-13 18:18:37 | INFO | Message received from author: Charlie
+2025-09-13 18:18:37 | INFO | Message contains grade: 5th
+2025-09-13 18:18:37 | INFO | Updated author counts: {'Eve': 9, 'Alice': 19, 'Charlie': 9, 'Diana': 20, 'Bob': 13}
+2025-09-13 18:18:37 | INFO | Updated grade counts: {'3rd': 10, '1st': 7, '4th': 9, '2nd': 13, '5th': 13, '6th': 14, '7th': 4}
+2025-09-13 18:18:38 | INFO | Sent message to topic 'buzzline_json': {'message': 'Streaming data is fun.', 'author': 'Alice', 'group': 'F', 'grade': '3rd'}
+2025-09-13 18:18:38 | INFO | Processed JSON message: {'message': 'Streaming data is fun.', 'author': 'Alice', 'group': 'F', 'grade': '3rd'}
+2025-09-13 18:18:38 | INFO | Message received from author: Alice
+2025-09-13 18:18:38 | INFO | Message contains grade: 3rd
+2025-09-13 18:18:38 | INFO | Updated author counts: {'Eve': 9, 'Alice': 20, 'Charlie': 9, 'Diana': 20, 'Bob': 13}
+2025-09-13 18:18:38 | INFO | Updated grade counts: {'3rd': 11, '1st': 7, '4th': 9, '2nd': 13, '5th': 13, '6th': 14, '7th': 4}
+2025-09-13 18:18:39 | INFO | Sent message to topic 'buzzline_json': {'message': 'Hello, Kafka world!', 'author': 'Diana', 'group': 'A', 'grade': '3rd'}
+2025-09-13 18:18:39 | INFO | Processed JSON message: {'message': 'Hello, Kafka world!', 'author': 'Diana', 'group': 'A', 'grade': '3rd'}
+2025-09-13 18:18:39 | INFO | Message received from author: Diana
+2025-09-13 18:18:39 | INFO | Message contains grade: 3rd
+2025-09-13 18:18:39 | INFO | Updated author counts: {'Eve': 9, 'Alice': 20, 'Charlie': 9, 'Diana': 21, 'Bob': 13}
+2025-09-13 18:18:39 | INFO | Updated grade counts: {'3rd': 12, '1st': 7, '4th': 9, '2nd': 13, '5th': 13, '6th': 14, '7th': 4}
+2025-09-13 18:18:40 | INFO | Sent message to topic 'buzzline_json': {'message': 'Kafka is awesome.', 'author': 'Bob', 'group': 'E', 'grade': '5th'}
+2025-09-13 18:18:40 | INFO | Processed JSON message: {'message': 'Kafka is awesome.', 'author': 'Bob', 'group': 'E', 'grade': '5th'}
+2025-09-13 18:18:40 | INFO | Message received from author: Bob
+2025-09-13 18:18:40 | INFO | Message contains grade: 5th
+2025-09-13 18:18:40 | INFO | Updated author counts: {'Eve': 9, 'Alice': 20, 'Charlie': 9, 'Diana': 21, 'Bob': 14}
+2025-09-13 18:18:40 | INFO | Updated grade counts: {'3rd': 12, '1st': 7, '4th': 9, '2nd': 13, '5th': 14, '6th': 14, '7th': 4}
+2025-09-13 18:18:41 | INFO | Sent message to topic 'buzzline_json': {'message': 'I love Python!', 'author': 'Eve', 'group': 'B', 'grade': '2nd'}
+2025-09-13 18:18:41 | INFO | Processed JSON message: {'message': 'I love Python!', 'author': 'Eve', 'group': 'B', 'grade': '2nd'}
+2025-09-13 18:18:41 | INFO | Message received from author: Eve
+2025-09-13 18:18:41 | INFO | Message contains grade: 2nd
+2025-09-13 18:18:41 | INFO | Updated author counts: {'Eve': 10, 'Alice': 20, 'Charlie': 9, 'Diana': 21, 'Bob': 14}
+2025-09-13 18:18:41 | INFO | Updated grade counts: {'3rd': 12, '1st': 7, '4th': 9, '2nd': 14, '5th': 14, '6th': 14, '7th': 4}
+2025-09-13 18:18:42 | INFO | Sent message to topic 'buzzline_json': {'message': 'JSON makes life easier.', 'author': 'Charlie', 'group': 'F', 'grade': '6th'}
+2025-09-13 18:18:42 | INFO | Processed JSON message: {'message': 'JSON makes life easier.', 'author': 'Charlie', 'group': 'F', 'grade': '6th'}
+2025-09-13 18:18:42 | INFO | Message received from author: Charlie
+2025-09-13 18:18:42 | INFO | Message contains grade: 6th
+2025-09-13 18:18:42 | INFO | Updated author counts: {'Eve': 10, 'Alice': 20, 'Charlie': 10, 'Diana': 21, 'Bob': 14}
+2025-09-13 18:18:42 | INFO | Updated grade counts: {'3rd': 12, '1st': 7, '4th': 9, '2nd': 14, '5th': 14, '6th': 15, '7th': 4}
+2025-09-13 18:18:43 | INFO | Sent message to topic 'buzzline_json': {'message': 'I love Python!', 'author': 'Charlie', 'group': 'D', 'grade': '1st'}
+2025-09-13 18:18:43 | INFO | Processed JSON message: {'message': 'I love Python!', 'author': 'Charlie', 'group': 'D', 'grade': '1st'}
+2025-09-13 18:18:43 | INFO | Message received from author: Charlie
+2025-09-13 18:18:43 | INFO | Message contains grade: 1st
+2025-09-13 18:18:43 | INFO | Updated author counts: {'Eve': 10, 'Alice': 20, 'Charlie': 11, 'Diana': 21, 'Bob': 14}
+2025-09-13 18:18:43 | INFO | Updated grade counts: {'3rd': 12, '1st': 8, '4th': 9, '2nd': 14, '5th': 14, '6th': 15, '7th': 4}
+2025-09-13 18:18:44 | INFO | Sent message to topic 'buzzline_json': {'message': 'I love Python!', 'author': 'Charlie', 'group': 'A', 'grade': '1st'}
+2025-09-13 18:18:44 | INFO | Processed JSON message: {'message': 'I love Python!', 'author': 'Charlie', 'group': 'A', 'grade': '1st'}
+2025-09-13 18:18:44 | INFO | Message received from author: Charlie
+2025-09-13 18:18:44 | INFO | Message contains grade: 1st
+2025-09-13 18:18:44 | INFO | Updated author counts: {'Eve': 10, 'Alice': 20, 'Charlie': 12, 'Diana': 21, 'Bob': 14}
+2025-09-13 18:18:44 | INFO | Updated grade counts: {'3rd': 12, '1st': 9, '4th': 9, '2nd': 14, '5th': 14, '6th': 15, '7th': 4}
+2025-09-13 18:18:45 | INFO | Sent message to topic 'buzzline_json': {'message': 'I love Python!', 'author': 'Diana', 'group': 'D', 'grade': '1st'}
+2025-09-13 18:18:45 | INFO | Processed JSON message: {'message': 'I love Python!', 'author': 'Diana', 'group': 'D', 'grade': '1st'}
+2025-09-13 18:18:45 | INFO | Message received from author: Diana
+2025-09-13 18:18:45 | INFO | Message contains grade: 1st
+2025-09-13 18:18:45 | INFO | Updated author counts: {'Eve': 10, 'Alice': 20, 'Charlie': 12, 'Diana': 22, 'Bob': 14}
+2025-09-13 18:18:45 | INFO | Updated grade counts: {'3rd': 12, '1st': 10, '4th': 9, '2nd': 14, '5th': 14, '6th': 15, '7th': 4}
+2025-09-13 18:18:46 | INFO | Sent message to topic 'buzzline_json': {'message': 'Streaming data is fun.', 'author': 'Diana', 'group': 'F', 'grade': '7th'}
+2025-09-13 18:18:46 | INFO | Processed JSON message: {'message': 'Streaming data is fun.', 'author': 'Diana', 'group': 'F', 'grade': '7th'}
+2025-09-13 18:18:46 | INFO | Message received from author: Diana
+2025-09-13 18:18:46 | INFO | Message contains grade: 7th
+2025-09-13 18:18:46 | INFO | Updated author counts: {'Eve': 10, 'Alice': 20, 'Charlie': 12, 'Diana': 23, 'Bob': 14}
+2025-09-13 18:18:46 | INFO | Updated grade counts: {'3rd': 12, '1st': 10, '4th': 9, '2nd': 14, '5th': 14, '6th': 15, '7th': 5}
+2025-09-13 18:18:47 | INFO | Sent message to topic 'buzzline_json': {'message': 'Data engineering is my passion.', 'author': 'Eve', 'group': 'F', 'grade': '4th'}
+2025-09-13 18:18:47 | INFO | Processed JSON message: {'message': 'Data engineering is my passion.', 'author': 'Eve', 'group': 'F', 'grade': '4th'}
+2025-09-13 18:18:47 | INFO | Message received from author: Eve
+2025-09-13 18:18:47 | INFO | Message contains grade: 4th
+2025-09-13 18:18:47 | INFO | Updated author counts: {'Eve': 11, 'Alice': 20, 'Charlie': 12, 'Diana': 23, 'Bob': 14}
+2025-09-13 18:18:47 | INFO | Updated grade counts: {'3rd': 12, '1st': 10, '4th': 10, '2nd': 14, '5th': 14, '6th': 15, '7th': 5}
+2025-09-13 18:18:48 | INFO | Sent message to topic 'buzzline_json': {'message': 'Buzz messages for everyone.', 'author': 'Eve', 'group': 'G', 'grade': '4th'}
+2025-09-13 18:18:48 | INFO | Processed JSON message: {'message': 'Buzz messages for everyone.', 'author': 'Eve', 'group': 'G', 'grade': '4th'}
+2025-09-13 18:18:48 | INFO | Message received from author: Eve
+2025-09-13 18:18:48 | INFO | Message contains grade: 4th
+2025-09-13 18:18:48 | INFO | Updated author counts: {'Eve': 12, 'Alice': 20, 'Charlie': 12, 'Diana': 23, 'Bob': 14}
+2025-09-13 18:18:48 | INFO | Updated grade counts: {'3rd': 12, '1st': 10, '4th': 11, '2nd': 14, '5th': 14, '6th': 15, '7th': 5}
+2025-09-13 18:18:49 | INFO | Sent message to topic 'buzzline_json': {'message': 'JSON makes life easier.', 'author': 'Eve', 'group': 'E', 'grade': '5th'}
+2025-09-13 18:18:49 | INFO | Processed JSON message: {'message': 'JSON makes life easier.', 'author': 'Eve', 'group': 'E', 'grade': '5th'}
+2025-09-13 18:18:49 | INFO | Message received from author: Eve
+2025-09-13 18:18:49 | INFO | Message contains grade: 5th
+2025-09-13 18:18:49 | INFO | Updated author counts: {'Eve': 13, 'Alice': 20, 'Charlie': 12, 'Diana': 23, 'Bob': 14}
+2025-09-13 18:18:49 | INFO | Updated grade counts: {'3rd': 12, '1st': 10, '4th': 11, '2nd': 14, '5th': 15, '6th': 15, '7th': 5}
+2025-09-13 18:18:50 | INFO | Sent message to topic 'buzzline_json': {'message': 'Have a great day!', 'author': 'Alice', 'group': 'D', 'grade': '3rd'}
+2025-09-13 18:18:50 | INFO | Processed JSON message: {'message': 'Have a great day!', 'author': 'Alice', 'group': 'D', 'grade': '3rd'}
+2025-09-13 18:18:50 | INFO | Message received from author: Alice
+2025-09-13 18:18:50 | INFO | Message contains grade: 3rd
+2025-09-13 18:18:50 | INFO | Updated author counts: {'Eve': 13, 'Alice': 21, 'Charlie': 12, 'Diana': 23, 'Bob': 14}
+2025-09-13 18:18:50 | INFO | Updated grade counts: {'3rd': 13, '1st': 10, '4th': 11, '2nd': 14, '5th': 15, '6th': 15, '7th': 5}
+2025-09-13 18:18:51 | INFO | Sent message to topic 'buzzline_json': {'message': 'I love Python!', 'author': 'Bob', 'group': 'E', 'grade': '4th'}
+2025-09-13 18:18:51 | INFO | Processed JSON message: {'message': 'I love Python!', 'author': 'Bob', 'group': 'E', 'grade': '4th'}
+2025-09-13 18:18:51 | INFO | Message received from author: Bob
+2025-09-13 18:18:51 | INFO | Message contains grade: 4th
+2025-09-13 18:18:51 | INFO | Updated author counts: {'Eve': 13, 'Alice': 21, 'Charlie': 12, 'Diana': 23, 'Bob': 15}
+2025-09-13 18:18:51 | INFO | Updated grade counts: {'3rd': 13, '1st': 10, '4th': 12, '2nd': 14, '5th': 15, '6th': 15, '7th': 5}
+2025-09-13 18:18:52 | INFO | Sent message to topic 'buzzline_json': {'message': 'I love Python!', 'author': 'Bob', 'group': 'D', 'grade': '6th'}
+2025-09-13 18:18:52 | INFO | Processed JSON message: {'message': 'I love Python!', 'author': 'Bob', 'group': 'D', 'grade': '6th'}
+2025-09-13 18:18:52 | INFO | Message received from author: Bob
+2025-09-13 18:18:52 | INFO | Message contains grade: 6th
+2025-09-13 18:18:52 | INFO | Updated author counts: {'Eve': 13, 'Alice': 21, 'Charlie': 12, 'Diana': 23, 'Bob': 16}
+2025-09-13 18:18:52 | INFO | Updated grade counts: {'3rd': 13, '1st': 10, '4th': 12, '2nd': 14, '5th': 15, '6th': 16, '7th': 5}
+2025-09-13 18:18:53 | INFO | Sent message to topic 'buzzline_json': {'message': 'This is a buzz message.', 'author': 'Eve', 'group': 'G', 'grade': '1st'}
+2025-09-13 18:18:53 | INFO | Processed JSON message: {'message': 'This is a buzz message.', 'author': 'Eve', 'group': 'G', 'grade': '1st'}
+2025-09-13 18:18:53 | INFO | Message received from author: Eve
+2025-09-13 18:18:53 | INFO | Message contains grade: 1st
+2025-09-13 18:18:53 | INFO | Updated author counts: {'Eve': 14, 'Alice': 21, 'Charlie': 12, 'Diana': 23, 'Bob': 16}
+2025-09-13 18:18:53 | INFO | Updated grade counts: {'3rd': 13, '1st': 11, '4th': 12, '2nd': 14, '5th': 15, '6th': 16, '7th': 5}
+2025-09-13 18:18:54 | INFO | Sent message to topic 'buzzline_json': {'message': 'This is a buzz message.', 'author': 'Alice', 'group': 'E', 'grade': '1st'}
+2025-09-13 18:18:54 | INFO | Processed JSON message: {'message': 'This is a buzz message.', 'author': 'Alice', 'group': 'E', 'grade': '1st'}
+2025-09-13 18:18:54 | INFO | Message received from author: Alice
+2025-09-13 18:18:54 | INFO | Message contains grade: 1st
+2025-09-13 18:18:54 | INFO | Updated author counts: {'Eve': 14, 'Alice': 22, 'Charlie': 12, 'Diana': 23, 'Bob': 16}
+2025-09-13 18:18:54 | INFO | Updated grade counts: {'3rd': 13, '1st': 12, '4th': 12, '2nd': 14, '5th': 15, '6th': 16, '7th': 5}
+2025-09-13 18:18:55 | INFO | Sent message to topic 'buzzline_json': {'message': 'Distributed systems are fascinating.', 'author': 'Diana', 'group': 'E', 'grade': '2nd'}
+2025-09-13 18:18:55 | INFO | Processed JSON message: {'message': 'Distributed systems are fascinating.', 'author': 'Diana', 'group': 'E', 'grade': '2nd'}
+2025-09-13 18:18:55 | INFO | Message received from author: Diana
+2025-09-13 18:18:55 | INFO | Message contains grade: 2nd
+2025-09-13 18:18:55 | INFO | Updated author counts: {'Eve': 14, 'Alice': 22, 'Charlie': 12, 'Diana': 24, 'Bob': 16}
+2025-09-13 18:18:55 | INFO | Updated grade counts: {'3rd': 13, '1st': 12, '4th': 12, '2nd': 15, '5th': 15, '6th': 16, '7th': 5}
+2025-09-13 18:18:56 | INFO | Sent message to topic 'buzzline_json': {'message': 'Streaming data is fun.', 'author': 'Eve', 'group': 'E', 'grade': '4th'}
+2025-09-13 18:18:56 | INFO | Processed JSON message: {'message': 'Streaming data is fun.', 'author': 'Eve', 'group': 'E', 'grade': '4th'}
+2025-09-13 18:18:56 | INFO | Message received from author: Eve
+2025-09-13 18:18:56 | INFO | Message contains grade: 4th
+2025-09-13 18:18:56 | INFO | Updated author counts: {'Eve': 15, 'Alice': 22, 'Charlie': 12, 'Diana': 24, 'Bob': 16}
+2025-09-13 18:18:56 | INFO | Updated grade counts: {'3rd': 13, '1st': 12, '4th': 13, '2nd': 15, '5th': 15, '6th': 16, '7th': 5}
+2025-09-13 18:18:57 | INFO | Sent message to topic 'buzzline_json': {'message': 'Have a great day!', 'author': 'Charlie', 'group': 'B', 'grade': '3rd'}
+2025-09-13 18:18:57 | INFO | Processed JSON message: {'message': 'Have a great day!', 'author': 'Charlie', 'group': 'B', 'grade': '3rd'}
+2025-09-13 18:18:57 | INFO | Message received from author: Charlie
+2025-09-13 18:18:57 | INFO | Message contains grade: 3rd
+2025-09-13 18:18:57 | INFO | Updated author counts: {'Eve': 15, 'Alice': 22, 'Charlie': 13, 'Diana': 24, 'Bob': 16}
+2025-09-13 18:18:57 | INFO | Updated grade counts: {'3rd': 14, '1st': 12, '4th': 13, '2nd': 15, '5th': 15, '6th': 16, '7th': 5}
+2025-09-13 18:18:58 | INFO | Sent message to topic 'buzzline_json': {'message': 'JSON makes life easier.', 'author': 'Eve', 'group': 'D', 'grade': '6th'}
+2025-09-13 18:18:58 | INFO | Processed JSON message: {'message': 'JSON makes life easier.', 'author': 'Eve', 'group': 'D', 'grade': '6th'}
+2025-09-13 18:18:58 | INFO | Message received from author: Eve
+2025-09-13 18:18:58 | INFO | Message contains grade: 6th
+2025-09-13 18:18:58 | INFO | Updated author counts: {'Eve': 16, 'Alice': 22, 'Charlie': 13, 'Diana': 24, 'Bob': 16}
+2025-09-13 18:18:58 | INFO | Updated grade counts: {'3rd': 14, '1st': 12, '4th': 13, '2nd': 15, '5th': 15, '6th': 17, '7th': 5}
+2025-09-13 18:18:59 | INFO | Sent message to topic 'buzzline_json': {'message': 'Buzz messages for everyone.', 'author': 'Diana', 'group': 'C', 'grade': '3rd'}
+2025-09-13 18:18:59 | INFO | Processed JSON message: {'message': 'Buzz messages for everyone.', 'author': 'Diana', 'group': 'C', 'grade': '3rd'}
+2025-09-13 18:18:59 | INFO | Message received from author: Diana
+2025-09-13 18:18:59 | INFO | Message contains grade: 3rd
+2025-09-13 18:18:59 | INFO | Updated author counts: {'Eve': 16, 'Alice': 22, 'Charlie': 13, 'Diana': 25, 'Bob': 16}
+2025-09-13 18:18:59 | INFO | Updated grade counts: {'3rd': 15, '1st': 12, '4th': 13, '2nd': 15, '5th': 15, '6th': 17, '7th': 5}
+2025-09-13 18:19:00 | INFO | Sent message to topic 'buzzline_json': {'message': 'This is a buzz message.', 'author': 'Charlie', 'group': 'G', 'grade': '2nd'}
+2025-09-13 18:19:00 | INFO | Processed JSON message: {'message': 'This is a buzz message.', 'author': 'Charlie', 'group': 'G', 'grade': '2nd'}
+2025-09-13 18:19:00 | INFO | Message received from author: Charlie
+2025-09-13 18:19:00 | INFO | Message contains grade: 2nd
+2025-09-13 18:19:00 | INFO | Updated author counts: {'Eve': 16, 'Alice': 22, 'Charlie': 14, 'Diana': 25, 'Bob': 16}
+2025-09-13 18:19:00 | INFO | Updated grade counts: {'3rd': 15, '1st': 12, '4th': 13, '2nd': 16, '5th': 15, '6th': 17, '7th': 5}
+2025-09-13 18:19:01 | INFO | Sent message to topic 'buzzline_json': {'message': 'Distributed systems are fascinating.', 'author': 'Charlie', 'group': 'G', 'grade': '3rd'}
+2025-09-13 18:19:01 | INFO | Processed JSON message: {'message': 'Distributed systems are fascinating.', 'author': 'Charlie', 'group': 'G', 'grade': '3rd'}
+2025-09-13 18:19:01 | INFO | Message received from author: Charlie
+2025-09-13 18:19:01 | INFO | Message contains grade: 3rd
+2025-09-13 18:19:01 | INFO | Updated author counts: {'Eve': 16, 'Alice': 22, 'Charlie': 15, 'Diana': 25, 'Bob': 16}
+2025-09-13 18:19:01 | INFO | Updated grade counts: {'3rd': 16, '1st': 12, '4th': 13, '2nd': 16, '5th': 15, '6th': 17, '7th': 5}
+2025-09-13 18:19:02 | INFO | Sent message to topic 'buzzline_json': {'message': 'Buzz messages for everyone.', 'author': 'Bob', 'group': 'D', 'grade': '2nd'}
+2025-09-13 18:19:02 | INFO | Processed JSON message: {'message': 'Buzz messages for everyone.', 'author': 'Bob', 'group': 'D', 'grade': '2nd'}
+2025-09-13 18:19:02 | INFO | Message received from author: Bob
+2025-09-13 18:19:02 | INFO | Message contains grade: 2nd
+2025-09-13 18:19:02 | INFO | Updated author counts: {'Eve': 16, 'Alice': 22, 'Charlie': 15, 'Diana': 25, 'Bob': 17}
+2025-09-13 18:19:02 | INFO | Updated grade counts: {'3rd': 16, '1st': 12, '4th': 13, '2nd': 17, '5th': 15, '6th': 17, '7th': 5}
+2025-09-13 18:19:03 | INFO | Sent message to topic 'buzzline_json': {'message': 'This is a buzz message.', 'author': 'Eve', 'group': 'D', 'grade': '2nd'}
+2025-09-13 18:19:03 | INFO | Processed JSON message: {'message': 'This is a buzz message.', 'author': 'Eve', 'group': 'D', 'grade': '2nd'}
+2025-09-13 18:19:03 | INFO | Message received from author: Eve
+2025-09-13 18:19:03 | INFO | Message contains grade: 2nd
+2025-09-13 18:19:03 | INFO | Updated author counts: {'Eve': 17, 'Alice': 22, 'Charlie': 15, 'Diana': 25, 'Bob': 17}
+2025-09-13 18:19:03 | INFO | Updated grade counts: {'3rd': 16, '1st': 12, '4th': 13, '2nd': 18, '5th': 15, '6th': 17, '7th': 5}
+2025-09-13 18:19:04 | INFO | Sent message to topic 'buzzline_json': {'message': 'Data engineering is my passion.', 'author': 'Diana', 'group': 'F', 'grade': '6th'}
+2025-09-13 18:19:04 | INFO | Processed JSON message: {'message': 'Data engineering is my passion.', 'author': 'Diana', 'group': 'F', 'grade': '6th'}
+2025-09-13 18:19:04 | INFO | Message received from author: Diana
+2025-09-13 18:19:04 | INFO | Message contains grade: 6th
+2025-09-13 18:19:04 | INFO | Updated author counts: {'Eve': 17, 'Alice': 22, 'Charlie': 15, 'Diana': 26, 'Bob': 17}
+2025-09-13 18:19:04 | INFO | Updated grade counts: {'3rd': 16, '1st': 12, '4th': 13, '2nd': 18, '5th': 15, '6th': 18, '7th': 5}
+2025-09-13 18:19:05 | INFO | Sent message to topic 'buzzline_json': {'message': 'Data engineering is my passion.', 'author': 'Alice', 'group': 'B', 'grade': '1st'}
+2025-09-13 18:19:05 | INFO | Processed JSON message: {'message': 'Data engineering is my passion.', 'author': 'Alice', 'group': 'B', 'grade': '1st'}
+2025-09-13 18:19:05 | INFO | Message received from author: Alice
+2025-09-13 18:19:05 | INFO | Message contains grade: 1st
+2025-09-13 18:19:05 | INFO | Updated author counts: {'Eve': 17, 'Alice': 23, 'Charlie': 15, 'Diana': 26, 'Bob': 17}
+2025-09-13 18:19:05 | INFO | Updated grade counts: {'3rd': 16, '1st': 13, '4th': 13, '2nd': 18, '5th': 15, '6th': 18, '7th': 5}
+2025-09-13 18:19:06 | INFO | Sent message to topic 'buzzline_json': {'message': 'Buzz messages for everyone.', 'author': 'Diana', 'group': 'F', 'grade': '4th'}
+2025-09-13 18:19:06 | INFO | Processed JSON message: {'message': 'Buzz messages for everyone.', 'author': 'Diana', 'group': 'F', 'grade': '4th'}
+2025-09-13 18:19:06 | INFO | Message received from author: Diana
+2025-09-13 18:19:06 | INFO | Message contains grade: 4th
+2025-09-13 18:19:06 | INFO | Updated author counts: {'Eve': 17, 'Alice': 23, 'Charlie': 15, 'Diana': 27, 'Bob': 17}
+2025-09-13 18:19:06 | INFO | Updated grade counts: {'3rd': 16, '1st': 13, '4th': 14, '2nd': 18, '5th': 15, '6th': 18, '7th': 5}
+2025-09-13 18:19:07 | INFO | Sent message to topic 'buzzline_json': {'message': 'JSON makes life easier.', 'author': 'Alice', 'group': 'C', 'grade': '5th'}
+2025-09-13 18:19:07 | INFO | Processed JSON message: {'message': 'JSON makes life easier.', 'author': 'Alice', 'group': 'C', 'grade': '5th'}
+2025-09-13 18:19:07 | INFO | Message received from author: Alice
+2025-09-13 18:19:07 | INFO | Message contains grade: 5th
+2025-09-13 18:19:07 | INFO | Updated author counts: {'Eve': 17, 'Alice': 24, 'Charlie': 15, 'Diana': 27, 'Bob': 17}
+2025-09-13 18:19:07 | INFO | Updated grade counts: {'3rd': 16, '1st': 13, '4th': 14, '2nd': 18, '5th': 16, '6th': 18, '7th': 5}
+2025-09-13 18:19:08 | INFO | Opening data file in read mode: C:/Users/USER/Documents/datastream-01/buzzline-03-hanson/data/buzz.json
+2025-09-13 18:19:08 | INFO | Reading data from file: C:/Users/USER/Documents/datastream-01/buzzline-03-hanson/data/buzz.json
+2025-09-13 18:19:08 | INFO | Sent message to topic 'buzzline_json': {'message': 'Data engineering is my passion.', 'author': 'Eve', 'group': 'B', 'grade': '5th'}
+2025-09-13 18:19:08 | INFO | Processed JSON message: {'message': 'Data engineering is my passion.', 'author': 'Eve', 'group': 'B', 'grade': '5th'}
+2025-09-13 18:19:08 | INFO | Message received from author: Eve
+2025-09-13 18:19:08 | INFO | Message contains grade: 5th
+2025-09-13 18:19:08 | INFO | Updated author counts: {'Eve': 18, 'Alice': 24, 'Charlie': 15, 'Diana': 27, 'Bob': 17}
+2025-09-13 18:19:08 | INFO | Updated grade counts: {'3rd': 16, '1st': 13, '4th': 14, '2nd': 18, '5th': 17, '6th': 18, '7th': 5}
+2025-09-13 18:19:09 | INFO | Sent message to topic 'buzzline_json': {'message': 'Distributed systems are fascinating.', 'author': 'Alice', 'group': 'C', 'grade': '3rd'}
+2025-09-13 18:19:09 | INFO | Processed JSON message: {'message': 'Distributed systems are fascinating.', 'author': 'Alice', 'group': 'C', 'grade': '3rd'}
+2025-09-13 18:19:09 | INFO | Message received from author: Alice
+2025-09-13 18:19:09 | INFO | Message contains grade: 3rd
+2025-09-13 18:19:09 | INFO | Updated author counts: {'Eve': 18, 'Alice': 25, 'Charlie': 15, 'Diana': 27, 'Bob': 17}
+2025-09-13 18:19:09 | INFO | Updated grade counts: {'3rd': 17, '1st': 13, '4th': 14, '2nd': 18, '5th': 17, '6th': 18, '7th': 5}
+2025-09-13 18:19:10 | INFO | Sent message to topic 'buzzline_json': {'message': 'Have a great day!', 'author': 'Charlie', 'group': 'G', 'grade': '4th'}
+2025-09-13 18:19:10 | INFO | Processed JSON message: {'message': 'Have a great day!', 'author': 'Charlie', 'group': 'G', 'grade': '4th'}
+2025-09-13 18:19:10 | INFO | Message received from author: Charlie
+2025-09-13 18:19:10 | INFO | Message contains grade: 4th
+2025-09-13 18:19:10 | INFO | Updated author counts: {'Eve': 18, 'Alice': 25, 'Charlie': 16, 'Diana': 27, 'Bob': 17}
+2025-09-13 18:19:10 | INFO | Updated grade counts: {'3rd': 17, '1st': 13, '4th': 15, '2nd': 18, '5th': 17, '6th': 18, '7th': 5}
+2025-09-13 18:19:11 | INFO | Sent message to topic 'buzzline_json': {'message': 'Data engineering is my passion.', 'author': 'Alice', 'group': 'A', 'grade': '1st'}
+2025-09-13 18:19:11 | INFO | Processed JSON message: {'message': 'Data engineering is my passion.', 'author': 'Alice', 'group': 'A', 'grade': '1st'}
+2025-09-13 18:19:11 | INFO | Message received from author: Alice
+2025-09-13 18:19:11 | INFO | Message contains grade: 1st
+2025-09-13 18:19:11 | INFO | Updated author counts: {'Eve': 18, 'Alice': 26, 'Charlie': 16, 'Diana': 27, 'Bob': 17}
+2025-09-13 18:19:11 | INFO | Updated grade counts: {'3rd': 17, '1st': 14, '4th': 15, '2nd': 18, '5th': 17, '6th': 18, '7th': 5}
+2025-09-13 18:19:12 | INFO | Sent message to topic 'buzzline_json': {'message': 'Distributed systems are fascinating.', 'author': 'Diana', 'group': 'B', 'grade': '2nd'}
+2025-09-13 18:19:12 | INFO | Processed JSON message: {'message': 'Distributed systems are fascinating.', 'author': 'Diana', 'group': 'B', 'grade': '2nd'}
+2025-09-13 18:19:12 | INFO | Message received from author: Diana
+2025-09-13 18:19:12 | INFO | Message contains grade: 2nd
+2025-09-13 18:19:12 | INFO | Updated author counts: {'Eve': 18, 'Alice': 26, 'Charlie': 16, 'Diana': 28, 'Bob': 17}
+2025-09-13 18:19:12 | INFO | Updated grade counts: {'3rd': 17, '1st': 14, '4th': 15, '2nd': 19, '5th': 17, '6th': 18, '7th': 5}
+2025-09-13 18:19:13 | INFO | Sent message to topic 'buzzline_json': {'message': 'Buzz messages for everyone.', 'author': 'Alice', 'group': 'G', 'grade': '5th'}
+2025-09-13 18:19:13 | INFO | Processed JSON message: {'message': 'Buzz messages for everyone.', 'author': 'Alice', 'group': 'G', 'grade': '5th'}
+2025-09-13 18:19:13 | INFO | Message received from author: Alice
+2025-09-13 18:19:13 | INFO | Message contains grade: 5th
+2025-09-13 18:19:13 | INFO | Updated author counts: {'Eve': 18, 'Alice': 27, 'Charlie': 16, 'Diana': 28, 'Bob': 17}
+2025-09-13 18:19:13 | INFO | Updated grade counts: {'3rd': 17, '1st': 14, '4th': 15, '2nd': 19, '5th': 18, '6th': 18, '7th': 5}
+2025-09-13 18:19:14 | INFO | Sent message to topic 'buzzline_json': {'message': 'Hello, Kafka world!', 'author': 'Diana', 'group': 'A', 'grade': '2nd'}
+2025-09-13 18:19:14 | INFO | Processed JSON message: {'message': 'Hello, Kafka world!', 'author': 'Diana', 'group': 'A', 'grade': '2nd'}
+2025-09-13 18:19:14 | INFO | Message received from author: Diana
+2025-09-13 18:19:14 | INFO | Message contains grade: 2nd
+2025-09-13 18:19:14 | INFO | Updated author counts: {'Eve': 18, 'Alice': 27, 'Charlie': 16, 'Diana': 29, 'Bob': 17}
+2025-09-13 18:19:14 | INFO | Updated grade counts: {'3rd': 17, '1st': 14, '4th': 15, '2nd': 20, '5th': 18, '6th': 18, '7th': 5}
+2025-09-13 18:19:15 | INFO | Sent message to topic 'buzzline_json': {'message': 'This is a buzz message.', 'author': 'Eve', 'group': 'A', 'grade': '3rd'}
+2025-09-13 18:19:15 | INFO | Processed JSON message: {'message': 'This is a buzz message.', 'author': 'Eve', 'group': 'A', 'grade': '3rd'}
+2025-09-13 18:19:15 | INFO | Message received from author: Eve
+2025-09-13 18:19:15 | INFO | Message contains grade: 3rd
+2025-09-13 18:19:15 | INFO | Updated author counts: {'Eve': 19, 'Alice': 27, 'Charlie': 16, 'Diana': 29, 'Bob': 17}
+2025-09-13 18:19:15 | INFO | Updated grade counts: {'3rd': 18, '1st': 14, '4th': 15, '2nd': 20, '5th': 18, '6th': 18, '7th': 5}
+2025-09-13 18:19:16 | INFO | Sent message to topic 'buzzline_json': {'message': 'JSON makes life easier.', 'author': 'Eve', 'group': 'G', 'grade': '7th'}
+2025-09-13 18:19:16 | INFO | Processed JSON message: {'message': 'JSON makes life easier.', 'author': 'Eve', 'group': 'G', 'grade': '7th'}
+2025-09-13 18:19:16 | INFO | Message received from author: Eve
+2025-09-13 18:19:16 | INFO | Message contains grade: 7th
+2025-09-13 18:19:16 | INFO | Updated author counts: {'Eve': 20, 'Alice': 27, 'Charlie': 16, 'Diana': 29, 'Bob': 17}
+2025-09-13 18:19:16 | INFO | Updated grade counts: {'3rd': 18, '1st': 14, '4th': 15, '2nd': 20, '5th': 18, '6th': 18, '7th': 6}
+2025-09-13 18:19:17 | INFO | Sent message to topic 'buzzline_json': {'message': 'JSON makes life easier.', 'author': 'Alice', 'group': 'A', 'grade': '7th'}
+2025-09-13 18:19:17 | INFO | Processed JSON message: {'message': 'JSON makes life easier.', 'author': 'Alice', 'group': 'A', 'grade': '7th'}
+2025-09-13 18:19:17 | INFO | Message received from author: Alice
+2025-09-13 18:19:17 | INFO | Message contains grade: 7th
+2025-09-13 18:19:17 | INFO | Updated author counts: {'Eve': 20, 'Alice': 28, 'Charlie': 16, 'Diana': 29, 'Bob': 17}
+2025-09-13 18:19:17 | INFO | Updated grade counts: {'3rd': 18, '1st': 14, '4th': 15, '2nd': 20, '5th': 18, '6th': 18, '7th': 7}
+2025-09-13 18:19:18 | INFO | Sent message to topic 'buzzline_json': {'message': 'Data engineering is my passion.', 'author': 'Diana', 'group': 'E', 'grade': '1st'}
+2025-09-13 18:19:18 | INFO | Processed JSON message: {'message': 'Data engineering is my passion.', 'author': 'Diana', 'group': 'E', 'grade': '1st'}
+2025-09-13 18:19:18 | INFO | Message received from author: Diana
+2025-09-13 18:19:18 | INFO | Message contains grade: 1st
+2025-09-13 18:19:18 | INFO | Updated author counts: {'Eve': 20, 'Alice': 28, 'Charlie': 16, 'Diana': 30, 'Bob': 17}
+2025-09-13 18:19:18 | INFO | Updated grade counts: {'3rd': 18, '1st': 15, '4th': 15, '2nd': 20, '5th': 18, '6th': 18, '7th': 7}
+2025-09-13 18:19:19 | INFO | Sent message to topic 'buzzline_json': {'message': 'JSON makes life easier.', 'author': 'Diana', 'group': 'E', 'grade': '1st'}
+2025-09-13 18:19:19 | INFO | Processed JSON message: {'message': 'JSON makes life easier.', 'author': 'Diana', 'group': 'E', 'grade': '1st'}
+2025-09-13 18:19:19 | INFO | Message received from author: Diana
+2025-09-13 18:19:19 | INFO | Message contains grade: 1st
+2025-09-13 18:19:19 | INFO | Updated author counts: {'Eve': 20, 'Alice': 28, 'Charlie': 16, 'Diana': 31, 'Bob': 17}
+2025-09-13 18:19:19 | INFO | Updated grade counts: {'3rd': 18, '1st': 16, '4th': 15, '2nd': 20, '5th': 18, '6th': 18, '7th': 7}
+2025-09-13 18:19:20 | INFO | Sent message to topic 'buzzline_json': {'message': 'Kafka is awesome.', 'author': 'Charlie', 'group': 'C', 'grade': '2nd'}
+2025-09-13 18:19:20 | INFO | Processed JSON message: {'message': 'Kafka is awesome.', 'author': 'Charlie', 'group': 'C', 'grade': '2nd'}
+2025-09-13 18:19:20 | INFO | Message received from author: Charlie
+2025-09-13 18:19:20 | INFO | Message contains grade: 2nd
+2025-09-13 18:19:20 | INFO | Updated author counts: {'Eve': 20, 'Alice': 28, 'Charlie': 17, 'Diana': 31, 'Bob': 17}
+2025-09-13 18:19:20 | INFO | Updated grade counts: {'3rd': 18, '1st': 16, '4th': 15, '2nd': 21, '5th': 18, '6th': 18, '7th': 7}
+2025-09-13 18:19:21 | INFO | Sent message to topic 'buzzline_json': {'message': 'JSON makes life easier.', 'author': 'Bob', 'group': 'A', 'grade': '6th'}
+2025-09-13 18:19:21 | INFO | Processed JSON message: {'message': 'JSON makes life easier.', 'author': 'Bob', 'group': 'A', 'grade': '6th'}
+2025-09-13 18:19:21 | INFO | Message received from author: Bob
+2025-09-13 18:19:21 | INFO | Message contains grade: 6th
+2025-09-13 18:19:21 | INFO | Updated author counts: {'Eve': 20, 'Alice': 28, 'Charlie': 17, 'Diana': 31, 'Bob': 18}
+2025-09-13 18:19:21 | INFO | Updated grade counts: {'3rd': 18, '1st': 16, '4th': 15, '2nd': 21, '5th': 18, '6th': 19, '7th': 7}
+2025-09-13 18:19:22 | INFO | Sent message to topic 'buzzline_json': {'message': 'I love Python!', 'author': 'Bob', 'group': 'G', 'grade': '5th'}
+2025-09-13 18:19:22 | INFO | Processed JSON message: {'message': 'I love Python!', 'author': 'Bob', 'group': 'G', 'grade': '5th'}
+2025-09-13 18:19:22 | INFO | Message received from author: Bob
+2025-09-13 18:19:22 | INFO | Message contains grade: 5th
+2025-09-13 18:19:22 | INFO | Updated author counts: {'Eve': 20, 'Alice': 28, 'Charlie': 17, 'Diana': 31, 'Bob': 19}
+2025-09-13 18:19:22 | INFO | Updated grade counts: {'3rd': 18, '1st': 16, '4th': 15, '2nd': 21, '5th': 19, '6th': 19, '7th': 7}
+2025-09-13 18:19:23 | INFO | Sent message to topic 'buzzline_json': {'message': 'This is a buzz message.', 'author': 'Eve', 'group': 'F', 'grade': '5th'}
+2025-09-13 18:19:23 | INFO | Processed JSON message: {'message': 'This is a buzz message.', 'author': 'Eve', 'group': 'F', 'grade': '5th'}
+2025-09-13 18:19:23 | INFO | Message received from author: Eve
+2025-09-13 18:19:23 | INFO | Message contains grade: 5th
+2025-09-13 18:19:23 | INFO | Updated author counts: {'Eve': 21, 'Alice': 28, 'Charlie': 17, 'Diana': 31, 'Bob': 19}
+2025-09-13 18:19:23 | INFO | Updated grade counts: {'3rd': 18, '1st': 16, '4th': 15, '2nd': 21, '5th': 20, '6th': 19, '7th': 7}
+2025-09-13 18:19:24 | INFO | Sent message to topic 'buzzline_json': {'message': 'I love Python!', 'author': 'Eve', 'group': 'A', 'grade': '4th'}
+2025-09-13 18:19:24 | INFO | Processed JSON message: {'message': 'I love Python!', 'author': 'Eve', 'group': 'A', 'grade': '4th'}
+2025-09-13 18:19:24 | INFO | Message received from author: Eve
+2025-09-13 18:19:24 | INFO | Message contains grade: 4th
+2025-09-13 18:19:24 | INFO | Updated author counts: {'Eve': 22, 'Alice': 28, 'Charlie': 17, 'Diana': 31, 'Bob': 19}
+2025-09-13 18:19:24 | INFO | Updated grade counts: {'3rd': 18, '1st': 16, '4th': 16, '2nd': 21, '5th': 20, '6th': 19, '7th': 7}
+2025-09-13 18:19:25 | INFO | Sent message to topic 'buzzline_json': {'message': 'Buzz messages for everyone.', 'author': 'Alice', 'group': 'D', 'grade': '3rd'}
+2025-09-13 18:19:25 | INFO | Processed JSON message: {'message': 'Buzz messages for everyone.', 'author': 'Alice', 'group': 'D', 'grade': '3rd'}
+2025-09-13 18:19:25 | INFO | Message received from author: Alice
+2025-09-13 18:19:25 | INFO | Message contains grade: 3rd
+2025-09-13 18:19:25 | INFO | Updated author counts: {'Eve': 22, 'Alice': 29, 'Charlie': 17, 'Diana': 31, 'Bob': 19}
+2025-09-13 18:19:25 | INFO | Updated grade counts: {'3rd': 19, '1st': 16, '4th': 16, '2nd': 21, '5th': 20, '6th': 19, '7th': 7}
+2025-09-13 18:19:26 | INFO | Sent message to topic 'buzzline_json': {'message': 'This is a buzz message.', 'author': 'Alice', 'group': 'C', 'grade': '3rd'}
+2025-09-13 18:19:26 | INFO | Processed JSON message: {'message': 'This is a buzz message.', 'author': 'Alice', 'group': 'C', 'grade': '3rd'}
+2025-09-13 18:19:26 | INFO | Message received from author: Alice
+2025-09-13 18:19:26 | INFO | Message contains grade: 3rd
+2025-09-13 18:19:26 | INFO | Updated author counts: {'Eve': 22, 'Alice': 30, 'Charlie': 17, 'Diana': 31, 'Bob': 19}
+2025-09-13 18:19:26 | INFO | Updated grade counts: {'3rd': 20, '1st': 16, '4th': 16, '2nd': 21, '5th': 20, '6th': 19, '7th': 7}
+2025-09-13 18:19:27 | INFO | Sent message to topic 'buzzline_json': {'message': 'Data engineering is my passion.', 'author': 'Diana', 'group': 'A', 'grade': '5th'}
+2025-09-13 18:19:27 | INFO | Processed JSON message: {'message': 'Data engineering is my passion.', 'author': 'Diana', 'group': 'A', 'grade': '5th'}
+2025-09-13 18:19:27 | INFO | Message received from author: Diana
+2025-09-13 18:19:27 | INFO | Message contains grade: 5th
+2025-09-13 18:19:27 | INFO | Updated author counts: {'Eve': 22, 'Alice': 30, 'Charlie': 17, 'Diana': 32, 'Bob': 19}
+2025-09-13 18:19:27 | INFO | Updated grade counts: {'3rd': 20, '1st': 16, '4th': 16, '2nd': 21, '5th': 21, '6th': 19, '7th': 7}
+2025-09-13 18:19:28 | INFO | Sent message to topic 'buzzline_json': {'message': 'I love Python!', 'author': 'Eve', 'group': 'C', 'grade': '3rd'}
+2025-09-13 18:19:28 | INFO | Processed JSON message: {'message': 'I love Python!', 'author': 'Eve', 'group': 'C', 'grade': '3rd'}
+2025-09-13 18:19:28 | INFO | Message received from author: Eve
+2025-09-13 18:19:28 | INFO | Message contains grade: 3rd
+2025-09-13 18:19:28 | INFO | Updated author counts: {'Eve': 23, 'Alice': 30, 'Charlie': 17, 'Diana': 32, 'Bob': 19}
+2025-09-13 18:19:28 | INFO | Updated grade counts: {'3rd': 21, '1st': 16, '4th': 16, '2nd': 21, '5th': 21, '6th': 19, '7th': 7}
+2025-09-13 18:19:29 | INFO | Sent message to topic 'buzzline_json': {'message': 'JSON makes life easier.', 'author': 'Charlie', 'group': 'E', 'grade': '5th'}
+2025-09-13 18:19:29 | INFO | Processed JSON message: {'message': 'JSON makes life easier.', 'author': 'Charlie', 'group': 'E', 'grade': '5th'}
+2025-09-13 18:19:29 | INFO | Message received from author: Charlie
+2025-09-13 18:19:29 | INFO | Message contains grade: 5th
+2025-09-13 18:19:29 | INFO | Updated author counts: {'Eve': 23, 'Alice': 30, 'Charlie': 18, 'Diana': 32, 'Bob': 19}
+2025-09-13 18:19:29 | INFO | Updated grade counts: {'3rd': 21, '1st': 16, '4th': 16, '2nd': 21, '5th': 22, '6th': 19, '7th': 7}
+2025-09-13 18:19:30 | INFO | Sent message to topic 'buzzline_json': {'message': 'Have a great day!', 'author': 'Bob', 'group': 'C', 'grade': '2nd'}
+2025-09-13 18:19:30 | INFO | Processed JSON message: {'message': 'Have a great day!', 'author': 'Bob', 'group': 'C', 'grade': '2nd'}
+2025-09-13 18:19:30 | INFO | Message received from author: Bob
+2025-09-13 18:19:30 | INFO | Message contains grade: 2nd
+2025-09-13 18:19:30 | INFO | Updated author counts: {'Eve': 23, 'Alice': 30, 'Charlie': 18, 'Diana': 32, 'Bob': 20}
+2025-09-13 18:19:30 | INFO | Updated grade counts: {'3rd': 21, '1st': 16, '4th': 16, '2nd': 22, '5th': 22, '6th': 19, '7th': 7}
+2025-09-13 18:19:31 | INFO | Sent message to topic 'buzzline_json': {'message': 'Data engineering is my passion.', 'author': 'Alice', 'group': 'F', 'grade': '4th'}
+2025-09-13 18:19:31 | INFO | Processed JSON message: {'message': 'Data engineering is my passion.', 'author': 'Alice', 'group': 'F', 'grade': '4th'}
+2025-09-13 18:19:31 | INFO | Message received from author: Alice
+2025-09-13 18:19:31 | INFO | Message contains grade: 4th
+2025-09-13 18:19:31 | INFO | Updated author counts: {'Eve': 23, 'Alice': 31, 'Charlie': 18, 'Diana': 32, 'Bob': 20}
+2025-09-13 18:19:31 | INFO | Updated grade counts: {'3rd': 21, '1st': 16, '4th': 17, '2nd': 22, '5th': 22, '6th': 19, '7th': 7}
+2025-09-13 18:19:32 | INFO | Sent message to topic 'buzzline_json': {'message': 'Kafka is awesome.', 'author': 'Diana', 'group': 'C', 'grade': '3rd'}
+2025-09-13 18:19:32 | INFO | Processed JSON message: {'message': 'Kafka is awesome.', 'author': 'Diana', 'group': 'C', 'grade': '3rd'}
+2025-09-13 18:19:32 | INFO | Message received from author: Diana
+2025-09-13 18:19:32 | INFO | Message contains grade: 3rd
+2025-09-13 18:19:32 | INFO | Updated author counts: {'Eve': 23, 'Alice': 31, 'Charlie': 18, 'Diana': 33, 'Bob': 20}
+2025-09-13 18:19:32 | INFO | Updated grade counts: {'3rd': 22, '1st': 16, '4th': 17, '2nd': 22, '5th': 22, '6th': 19, '7th': 7}
+2025-09-13 18:19:33 | INFO | Sent message to topic 'buzzline_json': {'message': 'Kafka is awesome.', 'author': 'Diana', 'group': 'A', 'grade': '4th'}
+2025-09-13 18:19:33 | INFO | Processed JSON message: {'message': 'Kafka is awesome.', 'author': 'Diana', 'group': 'A', 'grade': '4th'}
+2025-09-13 18:19:33 | INFO | Message received from author: Diana
+2025-09-13 18:19:33 | INFO | Message contains grade: 4th
+2025-09-13 18:19:33 | INFO | Updated author counts: {'Eve': 23, 'Alice': 31, 'Charlie': 18, 'Diana': 34, 'Bob': 20}
+2025-09-13 18:19:33 | INFO | Updated grade counts: {'3rd': 22, '1st': 16, '4th': 18, '2nd': 22, '5th': 22, '6th': 19, '7th': 7}
+2025-09-13 18:19:34 | INFO | Sent message to topic 'buzzline_json': {'message': 'Hello, Kafka world!', 'author': 'Bob', 'group': 'D', 'grade': '6th'}
+2025-09-13 18:19:34 | INFO | Processed JSON message: {'message': 'Hello, Kafka world!', 'author': 'Bob', 'group': 'D', 'grade': '6th'}
+2025-09-13 18:19:34 | INFO | Message received from author: Bob
+2025-09-13 18:19:34 | INFO | Message contains grade: 6th
+2025-09-13 18:19:34 | INFO | Updated author counts: {'Eve': 23, 'Alice': 31, 'Charlie': 18, 'Diana': 34, 'Bob': 21}
+2025-09-13 18:19:34 | INFO | Updated grade counts: {'3rd': 22, '1st': 16, '4th': 18, '2nd': 22, '5th': 22, '6th': 20, '7th': 7}
+2025-09-13 18:19:35 | INFO | Sent message to topic 'buzzline_json': {'message': 'Distributed systems are fascinating.', 'author': 'Diana', 'group': 'A', 'grade': '4th'}
+2025-09-13 18:19:35 | INFO | Processed JSON message: {'message': 'Distributed systems are fascinating.', 'author': 'Diana', 'group': 'A', 'grade': '4th'}
+2025-09-13 18:19:35 | INFO | Message received from author: Diana
+2025-09-13 18:19:35 | INFO | Message contains grade: 4th
+2025-09-13 18:19:35 | INFO | Updated author counts: {'Eve': 23, 'Alice': 31, 'Charlie': 18, 'Diana': 35, 'Bob': 21}
+2025-09-13 18:19:35 | INFO | Updated grade counts: {'3rd': 22, '1st': 16, '4th': 19, '2nd': 22, '5th': 22, '6th': 20, '7th': 7}
+2025-09-13 18:19:36 | INFO | Sent message to topic 'buzzline_json': {'message': 'I love Python!', 'author': 'Diana', 'group': 'G', 'grade': '3rd'}
+2025-09-13 18:19:36 | INFO | Processed JSON message: {'message': 'I love Python!', 'author': 'Diana', 'group': 'G', 'grade': '3rd'}
+2025-09-13 18:19:36 | INFO | Message received from author: Diana
+2025-09-13 18:19:36 | INFO | Message contains grade: 3rd
+2025-09-13 18:19:36 | INFO | Updated author counts: {'Eve': 23, 'Alice': 31, 'Charlie': 18, 'Diana': 36, 'Bob': 21}
+2025-09-13 18:19:36 | INFO | Updated grade counts: {'3rd': 23, '1st': 16, '4th': 19, '2nd': 22, '5th': 22, '6th': 20, '7th': 7}
+2025-09-13 18:19:37 | INFO | Sent message to topic 'buzzline_json': {'message': 'Have a great day!', 'author': 'Alice', 'group': 'G', 'grade': '1st'}
+2025-09-13 18:19:37 | INFO | Processed JSON message: {'message': 'Have a great day!', 'author': 'Alice', 'group': 'G', 'grade': '1st'}
+2025-09-13 18:19:37 | INFO | Message received from author: Alice
+2025-09-13 18:19:37 | INFO | Message contains grade: 1st
+2025-09-13 18:19:37 | INFO | Updated author counts: {'Eve': 23, 'Alice': 32, 'Charlie': 18, 'Diana': 36, 'Bob': 21}
+2025-09-13 18:19:37 | INFO | Updated grade counts: {'3rd': 23, '1st': 17, '4th': 19, '2nd': 22, '5th': 22, '6th': 20, '7th': 7}
+2025-09-13 18:19:38 | INFO | Sent message to topic 'buzzline_json': {'message': 'Hello, Kafka world!', 'author': 'Charlie', 'group': 'A', 'grade': '3rd'}
+2025-09-13 18:19:38 | INFO | Processed JSON message: {'message': 'Hello, Kafka world!', 'author': 'Charlie', 'group': 'A', 'grade': '3rd'}
+2025-09-13 18:19:38 | INFO | Message received from author: Charlie
+2025-09-13 18:19:38 | INFO | Message contains grade: 3rd

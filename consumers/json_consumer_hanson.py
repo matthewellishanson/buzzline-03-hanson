@@ -65,6 +65,10 @@ def get_kafka_consumer_group_id() -> str:
 # {author: count} author is the key and count is the value
 author_counts: defaultdict[str, int] = defaultdict(int)
 
+# Initialize a dictionary to store grade counts
+# {grade: count} grade is the key and count is the value
+grade_counts: defaultdict[str, int] = defaultdict(int)
+
 
 #####################################
 # Function to process a single message
@@ -96,8 +100,15 @@ def process_message(message: str) -> None:
         # Increment the count for the author
         author_counts[author] += 1
 
+        # If the message contains a 'grade' field, update grade counts
+        grade = message_dict.get("grade")
+        if grade:
+            grade_counts[grade] += 1
+            logger.info(f"Message contains grade: {grade}")
+
         # Log the updated counts
         logger.info(f"Updated author counts: {dict(author_counts)}")
+        logger.info(f"Updated grade counts: {dict(grade_counts)}")
 
     except json.JSONDecodeError:
         logger.error(f"Invalid JSON message: {message}")
